@@ -1,0 +1,2718 @@
+﻿GNAD,"""A, D & D Insurance Pool"""
+MISC,401K Defer.Comp.Exp. Pool
+ACCU,A/A -Building- LH Improve
+OPPE,A/A Cap. R&D Recon GL Account
+CENS,A/A Intang. Asset - Other Inactive GL Accounts for
+CENS,A/A Intang. Asset - Other NAC Governance GL Accoun
+OTAS,A/A Intang. Asset - Other Recon GL Account
+OTAS,A/A Intang. Asset Recon GL Account
+CENS,A/A Intangible Assets - Admin
+CENS,A/A Intangible Assets - Software
+FURN,A/A Returnable Packaging Right-of-use
+CENS,A/A SOP 98-1 Capitalized Costs - Production
+OTAS,A/A-Intang.Assets-GW
+ACCU,A/D - F & F - Admin.
+ACCU,A/D - In-House Production Tooling
+ACCU,A/D - Leased Vehicle-Employee
+ACCU,A/D - LIC Vehicle - Pool Car
+ACCU,A/D - LIC Vehicle - Special Lease
+ACCU,A/D - LIC Vehicle-Affiliate Lease
+ACCU,A/D - Pit Tools- Dies & Jigs
+ACCU,A/D Building - Plant
+ACCU,A/D Building Improvement - Admin
+ACCU,A/D Building Improvement - Plant
+ACCU,A/D Building Improvement - Sales Admin
+ACCU,A/D Building Recon GL Account
+ACCU,A/D Car - Other Recon GL Account
+ACCU,A/D Car (Leasing) Recon GL Account
+ACCU,A/D Furnitr & Fixtr. Governance GL Accounts for Ba
+ACCU,A/D Furnitr & Fixtr. Recon GL Account
+ACCU,A/D Land Improvements - Administrative
+ACCU,A/D Land Improvements - Plant
+ACCU,A/D Land Recon GL Account
+ACCU,A/D Leasehold - Improv. Recon GL Account
+ACCU,A/D Leasehold Improvement - Administrative
+ACCU,A/D -M & E -Itc
+ACCU,A/D -M & E-Admin.
+ACCU,A/D M&E - Unique
+ACCU,A/D Machinery & Equip. Recon GL Account
+ACCU,A/D Tools Recon GL Account
+ACCU,A/D-Building-Plant-ITC
+ACCU,A/D-Co. Vehicles
+ACCU,A/D-Co.Indust.Vehicle
+ACCU,A/D-Comp.Equip.-Plant
+ACCU,A/D-Computer Equip.-Admin.
+ACCU,A/D-Fixed Asset Contra Account
+ACCU,A/D-Supplier Tooling
+APAY,A/P - Dealer Credit
+APAY,A/P - TELEMATICS
+APAY,A/P Clearing
+APAY,A/P MDSE IN TRANSIT
+APAY,A/P NAPLD PARTS
+APAY,A/P Other - 3rd Party
+APAY,A/P PDC PARTS RETURNS
+APAY,A/P Technical Clearing
+APAY,A/P Trade-Contra-Scrap-(TMMC)
+APAY,A/P YR END MANUAL ACCR
+AREC,A/R - Clearing
+AREC,A/R - General (Non-Trade)
+AREC,A/R - General (Trade)
+AREC,A/R FLEET
+AREC,A/R INCENTIVES-PD'S
+AREC,A/R Misc-VEH
+AREC,A/R Other - FX Translation
+AREC,A/R Other - FX Unrealized Gain-Loss
+AREC,A/R PARENT-MISC
+APAY,A/R PARENT-WARRANTY
+AREC,A/R PENDING INVOICE
+AREC,A/R Trade - FX Translation
+AREC,A/R Trade - FX Unrealized Gain/Loss
+AREC,A/R Trade - Intercompany
+AREC,A/R Vehicles
+AREC,A/R-VEHICLE EXPORTS
+ACMP,Acc Bonus-FX Reval
+ACMP,Acc Bonus-FX Translation
+FURN,ACC DEP-OFFICE EQUIP
+ACCU,Acc Depr-bldgs adm func curr
+ACCU,Acc depr-bldgs func curr
+ACCU,Acc depr-CPU hdwr-plt func cur
+ACCU,Acc Depr-CPU hrdwr-adm fnc cur
+ACCU,Acc Depr-CPU sftwr plt fnc cur
+ACCU,Acc Depr-CPU sfw-adm func curr
+ACCU,Acc Depr-dies&jigs func curr
+ACCU,Acc Depr-Ind Vehicles func cur
+ACCU,Acc Depr-land imp adm fnc curr
+ACCU,Acc Depr-Land Improv func curr
+FURN,ACC DEPT-AUTO SHOW ASSETS
+OTCL,Acc Exp-FX Reval
+OTCL,Acc Exp-FX Translation
+ACMP,Acc. for Seniority Premium Mex
+INVT,ACCESSORIES IN-TRANSIT
+INVT,ACCESSORIES INVENTORY
+GNAD,Accounting & Auditing
+GNAD,Accounting & Auditing Reimb
+APAY,Accounts Payable - FX Revaluation
+APAY,Accounts Payable - Retention
+AREC,ACCOUNTS RECEIVABLE
+AREC,Accounts Receivable - Employees
+ACMP,Accr. Long Term Disability
+OTCL,Accr. Retro-Price Adjustment
+ACMP,Accr. Short Term Disability
+OTCL,Accr.FICA/CPP/UIC-Employer
+OTCL,Accr.Fringe Over/Under Absorp.
+OTCL,ACCRD ADV & INCENTIVES - P&S
+OTCL,ACCRD ADV & TDA CO-OP
+OTCL,ACCRD ADVERT-T.I.E.
+OTCL,ACCRD DLR INS COLLECTIONS
+OTCL,Accrd Exp Insurance Prem. - FX Reval.
+OTCL,Accrd Exp Insurance Prem. - FX Translation
+OTCL,Accrd Exp Sales Inc. - FX Reval.
+OTCL,Accrd Exp Sales Inc. - FX Translation
+OTCL,Accrd Exp Warranty Exp. - FX Reval.
+OTCL,Accrd Exp Warranty Exp. - FX Translation
+CASH,ACCRD INCENTIVES-CASH PROGRAMS
+OTCL,ACCRD INCENTIVES-REGION &NATL
+OTCL,ACCRD INLAND FRT EXPORT
+OTCL,ACCRD INSURANCE EXPORT
+OLTL,ACCRD NQ PENSION
+OTCL,ACCRD OCEAN FRT EXPORT
+OTCL,ACCRD PORT SRV EXPORT
+OTCL,ACCRD SERVICE LOANER
+OTCL,Accrd. Expenses Inactive GL Accounts for Historica
+OTCL,Accrd. Expenses NAC Governance GL Accounts for Bal
+OTCL,Accrue ECI Price Adj
+ACMP,Accrued 1T Relo Incentive Bonus
+ACMP,Accrued 1T Retention Incentive Bonus
+OTCL,Accrued 401k - Employer
+OTCL,ACCRUED ADVERTISING-LEXUS
+OTCL,ACCRUED AUDIT FEES
+ACMP,ACCRUED BONUS PAY-DIR
+ACMP,Accrued Bonuses
+OTCL,Accrued Capital Tax
+OLTL,ACCRUED CAR RENTAL PROG
+STIT,Accrued Consumption Tax - FX Reval.
+STIT,Accrued Consumption Tax - FX Translation
+OTCL,Accrued Expense - Autocare
+OTCL,Accrued Expenses
+OTCL,Accrued Expenses - Parts
+OTCL,Accrued Expenses (Insurance Premiums)
+OLTL,Accrued Expenses (L.T.)
+OTCL,Accrued Expenses (Sales Incentive)
+OTCL,Accrued Expenses (Warranty Exp)
+OTCL,Accrued Expenses-Wages & Salaries
+OTCL,Accrued Fed. Unemploy.Tax
+ACMP,Accrued for Annual Comp - Mex
+APAY,ACCRUED GAS TANK
+OTCL,Accrued GR/IR
+ACMP,Accrued Holiday Pay
+OTCL,ACCRUED INCENTIVES - FLEET
+OTCL,ACCRUED INCENTIVES-LEXUS
+STIT,Accrued Income Taxes
+STIT,Accrued Income Taxes - Other
+OTCL,Accrued Insurance - Dental Insurance
+OTCL,Accrued Insurance - Life Insurance
+OTCL,Accrued Insurance - Medical/Prescription/Vision
+OTCL,Accrued Insurance - Other Insurance
+OTCL,Accrued Interest
+NNOP,Accrued interest  (CO)
+OTCL,Accrued License Tax
+OLTL,ACCRUED LODGING-LEXUS
+OTCL,Accrued Managment Fees
+OTCL,ACCRUED MIT-DUTY
+APAY,ACCRUED OTHER G&A
+OTCL,ACCRUED PDS SERVICE
+OLTL,ACCRUED PENSION
+OTCL,ACCRUED PORT SERVICES
+OLTL,Accrued Post-Retirement Benefit
+OLTL,Accrued Product Liability - LT
+OTCL,Accrued Property Tax
+OTCL,ACCRUED RAPGARD LABOR
+OTCL,Accrued Regional Promotions
+OTCL,Accrued Reserve for Packaging
+AREC,Accrued Revenue - Adjustment
+AREC,Accrued Revenue - Disbursements
+AREC,Accrued Revenue - External Services
+AREC,Accrued Revenue - Fixed Price
+AREC,Accrued Revenue - On Account Adjustment
+AREC,Accrued Revenue - Periodic Service
+AREC,Accrued Revenue - Provision Manual
+AREC,Accrued Revenue - Time
+AREC,Accrued Revenue Deductions - Disbursements
+AREC,Accrued Revenue Deductions - External Services
+AREC,Accrued Revenue Deductions - Provision Manual
+AREC,Accrued Revenue Deductions - Time
+OLTL,Accrued Road Asst-Lex - NonCur
+OTCL,Accrued Royalty
+STIT,Accrued Sale/Use Tax
+STIT,Accrued Sales Tax Inactive GL Accounts for Histori
+APAY,ACCRUED SAVING FUND CLEARING
+OLTL,Accrued Service Loaner -NonCur
+ACMP,Accrued Sick Pay - Direct
+OTCL,ACCRUED SSC - LEXUS
+OTCL,Accrued State Unemploy.Tax
+OLTL,Accrued SVC - EV- Non -current
+OLTL,ACCRUED SVC EXPENSES
+OTCL,Accrued Union Dues
+OTCL,Accrued Utilities
+STIT,Accrued VAT TMMGT
+OTCL,Accrued VEH Freight Expense - Rail
+OTCL,Accrued VEH Freight Expense - Truck
+OTCL,Accrued VEVA
+OTCL,Accrued Vision Insurance
+OTCL,Accrued Warranty Res. - Recall
+OTCL,Accrued Warranty Reserve - FX Reval.
+OTCL,Accrued Warranty Reserve - FX Translation
+OTCL,Accrued Warranty Reserve - Parts
+OTCL,ACCRUED WHARFGE & HANDL
+OTCL,Accrued Worker's Comp
+APAY,Accts Pay Trade - Intercompany
+APAY,Accts Pay.- Other Recon Account
+APAY,Accts Pay.-FX Revaluation
+APAY,Accts Pay.-Other Clearing Account
+OTCL,Accts Pay.Other-Interco.
+APAY,Accts Pay.Trade - 3rd Party OIM Account
+APAY,Accts Pay.Trade - InterCompany OIM Account
+APAY,Accts Pay.Trade-3rd Party Domestic Clearing Accoun
+APAY,Accts Pay.Trade-3rd Party Domestic Recon Account
+APAY,Accts Pay.Trade-3rd Party Overseas Clearing Accoun
+APAY,Accts Pay.Trade-3rd Party Overseas Recon Account
+APAY,Accts Pay.Trade-I/C Domestic Clearing Account
+APAY,Accts Pay.Trade-I/C Domestic Recon Account
+APAY,Accts Pay.Trade-I/C Overseas Clearing Account
+APAY,Accts Pay.Trade-I/C Overseas Recon Account
+APAY,ACCTS PAYABLE-PARTS
+APAY,ACCTS PAY-PDS/WARRANTY
+AREC,Accts Rec.-Other Clearing Account
+AREC,Accts Rec.Trade-3rd Party
+AREC,Accts Rec.Trade-3rd Party Domestic Clearing Accoun
+AREC,Accts Rec.Trade-3rd Party OIM Account
+AREC,Accts Rec.Trade-3rd Party Overseas Clearing Accoun
+AREC,Accts Rec.Trade-3rd Party Overseas Recon Account
+AREC,Accts Rec.Trade-I/C Domestic Clearing Account
+AREC,Accts Rec.Trade-I/C Domestic Recon Account
+AREC,Accts Rec.Trade-I/C Overseas Clearing Account
+AREC,Accts Rec.Trade-I/C Overseas Recon Account
+AREC,Accts Rec.Trade-InterCompany OIM Account
+AREC,ACCTS REC-BUYBACK RECOV
+AREC,Accts Rec-GST (TMMC)
+ACCU,Accu Amor Intangible Assets - Others
+ACCU,Accumulated amortization - Internal Development
+ACCU,Accumulated Deprec.-Accrual
+ACCU,Accumulated Depreciation - Computer Hardware
+ACCU,Accumulated Depreciation - Furniture and Fixtures
+ACCU,Accumulated Depreciation - Machinery & Equipment
+OTCL,Acquisition Tax (ESA)
+OTCL,Adjustment account down payments received
+AREC,Adjustment Account Vendor Down Payments
+SCOS,Admin Fee Expense (TEMA)
+MISC,Admin. Labor-Fringe-Discre.
+MISC,Admin. Labor-Fringe-Legally
+PREV,Administration Fees Income
+MISC,Adv Expense - NAC Governance/Inactive GL Account b
+MISC,Advertising & Promotion
+SNMT,Advertising and Sales Costs
+MISC,Agency Fee
+GNAD,Air - Taxes/Fees Expense
+GNAD,Air Consultant Expense
+OPPE,AIRCRAFT
+OPPE,AIRCRAFT - FX Reval.
+ACCU,Aircraft : Accumulated Depreciation
+OPPE,Aircraft : Right-of-use asset
+OPPE,Aircraft : Right-of-use asset - Financing
+ACCU,Aircraft : Right-of-use asset(Accumulated Deprecia
+ACCU,Aircraft : Right-of-use asset(Accumulated Impairme
+PCOS,Alloc- COM-Legal Welfare Expense(A)
+PCOS,Alloc- COM-Wage Compensation(A)
+GNAD,Alloc- NA Agency Fee
+GNAD,Alloc- NA Depreciation
+PCOS,Alloc- NA Dir Matl (Other)
+PCOS,Alloc- NA Dir Matl Parts (North America)-Parts
+PCOS,Alloc- NA Dir Matl Parts (North America)-Pkg
+PCOS,Alloc- NA Dir Matl Parts (North America)-Tooling
+PCOS,Alloc- NA Dir Matl Parts (Overseas)
+PCOS,Alloc- NA Dir Matl Raw Materials - Vehicles-Mat
+PCOS,Alloc- NA Dir Matl Vehicles (North America)-JParts
+PCOS,Alloc- NA Dir Matl Vehicles (North America)-Pkg
+PCOS,Alloc- NA Dir Matl Vehicles (Overseas)
+OCOS,Alloc- NA Fixed COS  Depr/Amort-Tooling
+OCOS,Alloc- NA Fixed COS  Depr/Amort-Unique
+OCOS,Alloc- NA Fixed COS  Labor BC-B Base
+OCOS,Alloc- NA Fixed COS  Labor BC-B Ben
+OCOS,Alloc- NA Fixed COS  Labor BC-C Base
+OCOS,Alloc- NA Fixed COS  Labor BC-C Ben
+OCOS,Alloc- NA Fixed COS  Labor BC-D Base
+OCOS,Alloc- NA Fixed COS  Labor BC-D Ben
+OCOS,Alloc- NA Fixed COS  Labor D (Perm&Temp)-D Base
+OCOS,Alloc- NA Fixed COS  Labor D (Perm&Temp)-D Benefit
+SCOS,Alloc- NA Fixed COS  Professional Services
+SCOS,Alloc- NA Fixed COS  Repairs & Maintenance
+SCOS,Alloc- NA Fixed COS  Travel
+OCOS,Alloc- NA Fixed COS  VA/ VE
+OCOS,Alloc- NA Fixed COS Other Cost Kaizen-Pack
+OCOS,Alloc- NA Fixed COS Other-Consumable
+OCOS,Alloc- NA Fixed COS Other-Depr
+OCOS,Alloc- NA Fixed COS Other-Facility
+OCOS,Alloc- NA Fixed COS Other-Gen
+OCOS,Alloc- NA Fixed COS Other-Log
+OCOS,Alloc- NA Fixed COS Other-Parts
+OCOS,Alloc- NA Fixed COS Other-Supply
+OCOS,Alloc- NA Fixed COS Other-Tax
+OCOS,Alloc- NA Fixed COS Research & Development
+OCOS,Alloc- NA Fixed COS Warranty - Recall
+OCOS,Alloc- NA Fixed COS Warranty - Reserve
+GNAD,Alloc- NA Fixed SG&A  Contributions
+GNAD,Alloc- NA Fixed SG&A  Depreciation/ Amortization
+GNAD,Alloc- NA Fixed SG&A  Expensed Equipment
+GNAD,Alloc- NA Fixed SG&A  Insurance Expense
+GNAD,Alloc- NA Fixed SG&A  Meetings
+GNAD,Alloc- NA Fixed SG&A  Property and Other Taxes
+GNAD,Alloc- NA Fixed SG&A  Research
+GNAD,Alloc- NA Fixed SG&A  Transportation
+OCOS,Alloc- NA Fixed SG&A  Warranty Expense
+GNAD,Alloc- NA Fixed SG&A Accounting & Auditing Fees
+GNAD,Alloc- NA Fixed SG&A Allocated Admin Labor
+GNAD,Alloc- NA Fixed SG&A Entertainment
+GNAD,Alloc- NA Fixed SG&A Gain/ Loss on sale of assets
+GNAD,Alloc- NA Fixed SG&A Intra-Company Alloc Expense
+GNAD,Alloc- NA Fixed SG&A Litigation
+GNAD,Alloc- NA Fixed SG&A Non-Associate Workforce
+GNAD,Alloc- NA Fixed SG&A Other
+GNAD,Alloc- NA Fixed SG&A Other Cost Kaizen
+GNAD,Alloc- NA Fixed SG&A Other Selling
+GNAD,Alloc- NA Fixed SG&A Promotion
+GNAD,Alloc- NA Fixed SG&A Salaries/Taxes/Benefits-D Ben
+GNAD,Alloc- NA Fixed SG&A Salaries/Taxes/Benefits-DBase
+GNAD,Alloc- NA Fixed SG&A Salaries/Taxes/Benefits-Gen
+GNAD,Alloc- NA Fixed SG&A Shared Services Alloc
+GNAD,Alloc- NA Fixed SG&A Travel
+GNAD,Alloc- NA Fleet Incentives
+PCOS,Alloc- NA Freight North America
+PCOS,Alloc- NA Freight Overseas-Pur
+PCOS,Alloc- NA Freight Overseas-Sale
+PCOS,Alloc- NA Import Duty
+PREV,Alloc- NA Incentives - EVP Discounts & Contra
+MISC,Alloc- NA Interest Expense
+PCOS,Alloc- NA LIFO
+GNAD,Alloc- NA Media Expense
+MISC,Alloc- NA Minority Interest
+GNAD,Alloc- NA Non-Fleet Incentives
+OCOS,Alloc- NA Other COS
+MISC,Alloc- NA Other Expense
+PCOS,Alloc- NA Other Export COS
+MISC,Alloc- NA Other Income
+OCOS,Alloc- NA Other Vehicle COS TMEX
+SCOS,Alloc- NA Pre Delivery Services (PDS)
+GNAD,Alloc- NA Production
+GNAD,Alloc- NA Rent Depr 3rd - Depr
+MISC,Alloc- NA Tax
+GNAD,Alloc- NA TDA COOP
+LAND,Alloc- NA Transportation Charges-Land
+PCOS,Alloc- NA Transportation Charges-Other
+OCOS,Alloc- NA Var COS  Contracted Manufacturing Servs
+OCOS,Alloc- NA Var COS  Operating Supplies-Consumable
+OCOS,Alloc- NA Var COS  Operating Supplies-Supply
+OCOS,Alloc- NA Var COS  Royalty
+OCOS,Alloc- NA Var COS  Scrap and Rework
+OCOS,Alloc- NA Var COS  Utilities
+OCOS,Alloc- NA Var COS Other-Scrap
+OCOS,Alloc- NA Var COS Production (Temp Labor)-A Base
+PCOS,Alloc- NA Vehicle
+GNAD,Alloc- VDC Admin Allocation
+GNAD,Alloc- VDC Indirect COS Allocation
+GNAD,Alloc- VDO Admin Allocation
+MISC,Allocated Admin Labor
+MISC,Allocated Expense - MFG
+GNAD,Allocation GL Account balance for conversion
+PCOS,Alloc-Design and Dev Cost
+PCOS,Alloc-ECI Reserve
+PCOS,Alloc-Lbr A Activity Price
+PCOS,Alloc-Lbr A Round Diff
+PCOS,Alloc-NA Component Usage Variance
+PCOS,Alloc-OS MUV
+PCOS,Alloc-PPV DM - NA
+PCOS,Alloc-PPV DM - OS
+PCOS,Alloc-PPV Raw Material
+PCOS,Alloc-Raw Materials Usage
+PCOS,Alloc-Retro PPV
+PCOS,Alloc-Returnable Packaging
+CCOX,Alloc-Scrap Recovery
+PCOS,Alloc-Standard Cost Revalu
+PCOS,Alloc-Tier 2 Supplier Part
+PCOS,Alloc-Usage Var Unassigned Bal
+BDBT,Allowance For Doubtful Accounts (S.T)
+STDR,Allowance for Loss Contracts
+OTAS,Amort.-Intang.Assets
+OTAS,Amort.-Intang.-Organ.Costs
+NNOP,Amortization Cost - IRB
+NNOP,AmortizationofBondDiscount
+APAY,AP FOREIGN VENDORS
+APAY,AP INCENTIVES - PD'S
+APAY,AP- Others - Construction Work
+APAY,AP-3rd Party NAC Governance GL Accounts for Balanc
+APAY,AP-Other Inactive GL Accounts for Historical Balan
+APAY,AP-Other NAC Governance GL Accounts for Balance Tr
+APAY,AP-Other-FX Reval
+APAY,AP-Other-FX Translation
+OREV,APR INCENTIVES
+APAY,AP-Trade (Domestic)
+APAY,AP-Trade (Oversea)
+AREC,AR - VAT Tax Recovery TMMGT
+OTCS,AR Travel Advance Car Rental
+OTCS,AR Travel Airfare Advances
+AREC,AR-3rd Party Inactive GL Accounts for Historical B
+APAY,AR-AP MAZDA 4M
+AREC,AR-I/C Party Inactive GL Accounts for Historical B
+AREC,AR-Other Inactive GL Accounts for Historical Balan
+CONV,Asset Balance Conversion
+TAXS,Asset sale gain / loss
+TAXS,Asset sale gain / loss credit
+OPPE,Asset Transfer - Aircraft
+BLDG,Asset Transfer - Building
+OPPE,Asset Transfer - Car & Industrial Vehicle
+LAND,Asset Transfer - Land
+FURN,Asset Transfer - Mach & Equip
+GNAD,Audit & Appeal - Tax Issues
+GNAD,Auto Insurance Premium
+FURN,AUTO SHOW ASSETS
+GNAD,AUTO SHOWS-RECOVERY
+MISC,Automobile Expenses
+GNAD,Autoshow Expense
+GNAD,AV Communication
+CASH,B OF A-ILL CONCENTRATION
+CASH,B OF A-ILL LEXUS VEHICLES-CASH
+CASH,B OF A-ILLINOIS NAT'L DRAFTS
+CASH,B OF A-ILLINOIS TAI-L
+CASH,B OF A-LEXUS
+CASH,B OF A-TMS ACH
+CASH,B OF A-TMS HOLDBACKS
+CASH,B OF A-TMS/NISS
+OTAS,B/S reserves for anticipated losses
+MISC,Bad Debt Expense
+CASH,Bancomer - Export and Tax Bank Account
+AREC,Bancomer - Export and Tax Cash In Clrng
+APAY,Bancomer - Export and Tax Cash Out Clrng
+CASH,Bancomer - Peso
+CASH,Bancomer - Peso Cash In Clrng Acct
+CASH,Bancomer - US Dollar
+CASH,Bancomer - US Dollar Cash In Clrng Acct
+CASH,Bancomer Peso - Human Resources Bank Account
+AREC,Bancomer Peso - Human Resources Cash In Clrng
+APAY,Bancomer Peso - Human Resources Cash Out Clrng
+CASH,Bancomer Peso (Human Resources)
+CASH,Bank Charges
+CASH,Bank Commissions
+CASH,Bank of the West (USD) Outstanding Cheques
+CASH,Bank of the West USD
+CASH,Bank of Tokyo Mitsubishi CAD
+CASH,Bank of Tokyo Mitsubishi CAD Term Dep
+CASH,BANK OF TOKYO MITSUBISHI TRUST
+CASH,Bank of Tokyo Mitsubishi USD
+CASH,Bank of Tokyo Mitsubishi USD Cash In Clrng Acct
+CASH,Bank of Tokyo Mitsubishi USD Cash Out Clrng Acct
+CASH,Bank of Tokyo-Mitsubishi (CDN)
+CASH,Bank One - Arizona
+CASH,Bank One - Checking
+CASH,Bank One - Flexible Spending
+CASH,BANK WITHHOLDING INCOME TAX
+CASH,Bank_GL_Account
+CASH,Banorte Aduanas Pesos
+MISC,Benefit Enrollment and Admin Fee
+PREV,Billed Revenue - One Time Credit
+PREV,Billed Revenue Affiliated - Disbursements
+SREV,Billed Revenue Affiliated - External Services
+PREV,Billed Revenue Affiliated - Fixed Price
+PREV,Billed Revenue Affiliated - Time
+PREV,Billed Revenue Domestic - Disbursements
+SREV,Billed Revenue Domestic - External Services
+PREV,Billed Revenue Domestic - Fixed Price
+PREV,Billed Revenue Domestic - Time
+PREV,Billed Revenue Foreign - Disbursements
+SREV,Billed Revenue Foreign - External Services
+PREV,Billed Revenue Foreign - Fixed Price
+PREV,Billed Revenue Foreign - Time
+SREV,Billed Revenue Periodic Services
+STDR,Billing Excess Cost & Profit
+CASH,Bills of Exchange Collection
+CASH,Bills of Exchange Discounting
+OPPE,BLDG. EXPAN-CIP(NAMC A/F USE)
+CASH,BOA  Cash In ACH Disb Clrng
+CASH,BOA  Cash In ACH Lexus Clrng
+CASH,BOA  Cash In ACH Operating Clrng
+CASH,BOA  Cash In Check Control Disb Clrng
+CASH,BOA  Cash In Check Holdbacks Clrng
+CASH,BOA  Cash In Concetration Clrng
+CASH,BOA  Cash In Drafting and Operating Clrng
+CASH,BOA  Cash In Lexus Checks Clrng
+CASH,BOA  Cash In Lexus Operating Clrng
+CASH,BOA  Cash In NISS Checks Clrng
+CASH,BOA  Cash In Operating Payroll Clrng
+CASH,BOA  Cash In Operating Voluntary Plan Clrng
+CASH,BOA  Cash In Parts Lockbox Clrng
+CASH,BOA  Cash In ZBA Clrng
+CASH,BOA  Cash In ZBA Customs Clrng
+CASH,BOA  Cash In ZBA Foreign Parts Clrng
+CASH,BOA  Cash In ZBA Lexus Parts Clrng
+CASH,BOA  Cash In ZBA Operating Clrng
+CASH,BOA  Cash In ZBA Parts Clrng
+CASH,BOA  Cash In ZBA Payroll Clrng
+CASH,BOA  Cash In ZBA Veh Svcs Clrng
+CASH,BOA  Cash Out ACH Disb Clrng
+CASH,BOA  Cash Out ACH Lexus Clrng
+CASH,BOA  Cash Out ACH Operating Clrng
+CASH,BOA  Cash Out Check Control Disb Clrng
+CASH,BOA  Cash Out Check Holdbacks Clrng
+CASH,BOA  Cash Out Concetration Clrng
+CASH,BOA  Cash Out Drafting and Operating Clrng
+CASH,BOA  Cash Out Lexus Checks Clrng
+CASH,BOA  Cash Out Lexus Operating Clrng
+CASH,BOA  Cash Out NISS Checks Clrng
+CASH,BOA  Cash Out Operating Payroll Clrng
+CASH,BOA  Cash Out Operating Voluntary Plan Clrng
+CASH,BOA  Cash Out Parts Lockbox Clrng
+CASH,BOA  Cash Out ZBA Clrng
+CASH,BOA  Cash Out ZBA Customs Clrng
+CASH,BOA  Cash Out ZBA Foreign Parts Clrng
+CASH,BOA  Cash Out ZBA Lexus Parts Clrng
+CASH,BOA  Cash Out ZBA Operating Clrng
+CASH,BOA  Cash Out ZBA Parts Clrng
+CASH,BOA  Cash Out ZBA Payroll Clrng
+CASH,BOA  Cash Out ZBA Veh Svcs Clrng
+CASH,BOA  Cash Out ZBA Vehicles Clrng
+CASH,BOA - TEXAS INCENTIVE FUND
+CASH,BOA A/P ACH ACCOUNT
+CASH,BOA ACH Disbursement
+CASH,BOA ACH Lexus
+CASH,BOA ACH Operating
+CASH,BOA Cash In Emergency Prepardness Clrng
+CASH,BOA Cash In Investment Clrng
+CASH,BOA Cash In Lexus Intersect Account
+CASH,BOA Cash In Operating for TABCH
+CASH,BOA Cash In TABC Operating Clrng
+CASH,BOA Cash In TM Lease Prgm Clrng
+CASH,BOA Cash In TMNA Payroll Account
+CASH,BOA Cash In TX Incentives Fund Clrng
+CASH,BOA Cash Out Emergency Prepardness Clrng
+CASH,BOA Cash Out Investment Clrng
+CASH,BOA Cash Out Lexus Intersect Account
+CASH,BOA Cash Out Operating for TABCH
+CASH,BOA Cash Out TABC Operating Clrng
+CASH,BOA Cash Out TM Lease Prgm Clrng
+CASH,BOA Cash Out TMNA Payroll Account
+CASH,BOA Cash Out TX Incentives Fund Clrng
+CASH,BOA Check Controlled Disb
+CASH,BOA Check Holdbacks
+CASH,BOA Concetration
+CASH,BOA CUSTOMS ACH
+CASH,BOA DEPOSITING ACCOUNT
+CASH,BOA Drafting and Operating
+CASH,BOA Emergency Prepardness
+CASH,BOA IMPREST ACCOUNT
+CASH,BOA IMPREST REGIONS
+CASH,BOA Investment
+CASH,BOA Lexus Checks
+CASH,BOA Lexus Operating
+CASH,BOA LEXUS-PARTS
+AREC,BOA Lockbox Lexus Veh Clrng Acct
+AREC,BOA Lockbox Toyota Veh Clrng Acct
+AREC,BOA Lockbox ZBA Lexus Parts Clrng
+AREC,BOA Lockbox ZBA Parts Clrng
+CASH,BOA MDC
+CASH,BOA NISS Checks
+CASH,BOA OPERATING ACCOUNT
+CASH,BOA Operating for TABCH
+CASH,BOA Operating Payroll
+CASH,BOA Operating Voluntary Plan
+CASH,BOA PARTS
+CASH,BOA PARTS - FOREIGN DLRS
+CASH,BOA Parts Lockbox
+CASH,BOA TABC Operating
+CASH,BOA Texas Incentives Fund
+CASH,BOA TM Lease Program
+CASH,BOA -TM Leasing
+CASH,BOA TMNA Payroll Account
+CASH,BOA TMS INVESTMENTS
+CASH,BOA VEHICLE SVCS MERCHANT SVCS
+CASH,BOA ZBA AP
+CASH,BOA ZBA Customs
+CASH,BOA ZBA Foreign Parts
+CASH,BOA ZBA Lexus Parts
+CASH,BOA ZBA Operating
+CASH,BOA ZBA Parts
+CASH,BOA ZBA Payroll
+CASH,BOA ZBA Veh Services
+CASH,BOA ZBA Vehicles
+CASH,Bodine - In-House
+CASH,Bodine-Local Bank-Other
+CASH,Bodine-Local Bank-Payroll
+CASH,BOFA DISBURSEMENTS
+CASH,BOFA EMERGENCY PREPAREDNESS
+CASH,BOFA LEXUS ACH
+CASH,BOFA TMS VOLUNTARY PLAN ACCT
+CASH,BOFA UTILITY PAYMENT
+NNOP,Bond Admin. Cost - IRB
+NNOP,Bond Admin.Costs-PCB
+LTPY,Bonds (PCB)
+GNAD,Bonus (A) - NAC Governance/Inactive GL Account bal
+MISC,Bonus (B) - NAC Governance/Inactive GL Account bal
+MISC,Bonus (C) - NAC Governance/Inactive GL Account bal
+GNAD,Bonus (SGA) - NAC Governance/Inactive GL Account b
+ACMP,Bonus provision Previous year
+OTCL,BOS/CSP Settlement Reserve ST
+CASH,BoT (Canada) CAD Outstanding CHQS
+GNAD,BR GEM AWARD
+GNAD,Brokerage Fees
+CASH,BTMU Cash In Money Market 2 Clrng
+CASH,BTMU Cash In Money Market Clrng
+CASH,BTMU Cash Out Money Market 2 Clrng
+CASH,BTMU Cash Out Money Market Clrng
+CASH,BTMU Money Market
+CASH,BTMU Money Market 2
+OPPE,Building - CIP(NAMC A/F Use)
+BLDG,Building - Plant
+BLDG,Building Improvement - Administrative
+BLDG,Building Improvement - Plant
+NNOP,Building Maintenance
+BLDG,Building NAC Governance GL Accounts for Balance Tr
+BLDG,Building Recon GL Account
+BLDG,Building-ITC
+BLDG,Buildings
+BLDG,Buildings - adm Func Curr
+BLDG,Buildings - FX Reval.
+BLDG,Buildings - FX Translation
+ACCU,Buildings : Accumulated Depreciation
+BLDG,Buildings : Right-of-use asset
+BLDG,Buildings : Right-of-use asset - Financing
+ACCU,Buildings : Right-of-use asset(Accumulated Depreci
+ACCU,Buildings : Right-of-use asset(Accumulated Impairm
+BLDG,Buildings : ROU (A-D) - Financing
+BLDG,Buildings-plant Func Curr
+OTCL,business tax
+PCOS,Buyback Arbitration
+PCOS,Buyback Expense
+PCOS,Buyback Recovery
+GNAD,Cafi. Sup.& Services
+GNAD,Canada Pension Plan CPP SGA
+CASH,Canadian Disb.-Royal Bank
+CASH,Canadian Imperial Bank of Commerce CAD
+MISC,Cancellation Charges
+OPPE,Cap. R&D - FX Reval.
+OPPE,Cap. R&D - FX Translation
+OPPE,Cap. R&D Recon GL Account
+EQUI,Cap. Stock GL Accounts for Historical Balance Tran
+EQUI,Cap. Stock NAC Governance GL Accounts for Balance
+OTAS,Cap.Comp.Soft.-Admin(TMMC)
+TAXS,Capital account updated
+TAXS,Capital account updated credit
+TAXS,Capital account updated from prior years
+TAXS,Capital account updated from prior years credit
+TAXS,Capital Gains Tax
+EQUI,Capital in Excess of Par Value
+EQUI,Capital reserve
+EQUI,Capital Stock
+TAXS,Capital Taxes
+GNAD,Capital Taxes SGA
+OPPE,Capitalized Development Asset
+ACCU,Capitalized Development Asset : Accumulated Deprec
+OTAS,Capitalized Down Payments made on Fixed Assets
+CASH,Captin - In-House
+CASH,CAPTIN-Local Bank-Other
+CASH,CAPTIN-Local Bank-Payroll
+OPPE,Car - Other - FX Reval.
+OPPE,Car - Other - FX Translation
+OPPE,Car - Other Recon GL Account
+OPPE,Car & Industrial Vehicle
+ACCU,Car & Industrial Vehicle : Accumulated Depreciatio
+OPPE,Car & Industrial Vehicle : Right-of-use asset
+OPPE,Car & Industrial Vehicle : Right-of-use asset - Fi
+ACCU,Car & Industrial Vehicle : Right-of-use asset(Accu
+ACCU,Car & Industrial Vehicle : ROU(A/D) - Financing
+OPPE,Car & Industrial Vehicle : ROU(Acc Impair Loss)
+OPPE,Car (Leasing) - FX Reval.
+OPPE,Car (Leasing) - FX Translation
+OPPE,Car (Leasing) Recon GL Account
+GNAD,Carbon Tax Emission
+CASH,Cash
+CASH,Cash - Bank One
+CASH,Cash - Banorte - Payroll
+CASH,Cash - Banorte - Peso
+CASH,Cash - Banorte - USD
+CASH,Cash - Fifth Third bank
+CASH,Cash - Fifth Third Bank Benefits
+CASH,Cash - IBC - Customs
+CASH,Cash - Seaway National Bank
+CASH,CASH - TDPR / TRD
+CASH,Cash - Wells Fargo Prpty Tax Pmt
+CASH,Cash Banamex Peso Payroll
+CASH,Cash Banamex US Dollar
+CASH,CASH BANCOMER PESO OPERATING
+CASH,Cash BOA TMSdM
+SNMT,Cash Discounts Expense
+CASH,Cash Equivalents
+CASH,Cash FX Revaluation
+CASH,Cash FX Translation
+CASH,Cash-Fifth Third-MHM Retention
+CASH,Cash-in Clearing Account
+CASH,Cash-out Clearing Account
+CASH,Cash-PNC Bank
+CASH,CASS Bodine Payroll
+CASH,CASS Cash In Bodine Payroll Clrng
+CASH,CASS Cash Out Bodine Payroll Clrng
+OTCS,CBEST/1000 MILE CLEARING-LEXUS
+CASH,CCP - In-House
+PREV,Change and use
+SCOS,Chiled Water Utilities Cost
+CASH,CIBC (CAD) Outstanding Cheques
+OPPE,CIP - FX Reval.
+OPPE,CIP - FX Translation
+OPPE,CIP Inactive GL Accounts for Historical Balance Tr
+OPPE,CIP Recon GL Account
+CASH,CitiBanamex Operating & GN Bank Account
+AREC,CitiBanamex Operating & GN Cash In Clrng
+APAY,CitiBanamex Operating & GN Cash Out Clrng
+CASH,Citibank CAD Global Netting
+CASH,Citibank CAD Operating
+CASH,Citibank CAD Outstanding Cheques Account
+CASH,Citibank Cash In CAD Global Netting Clrng
+CASH,Citibank Cash In CAD Operating Clrng
+CASH,Citibank Cash In Global Netting Clrng
+CASH,Citibank Cash In TMNA Dividend IHB Account
+CASH,Citibank Cash Out CAD Global Netting Clrng
+CASH,Citibank Cash Out CAD Operating Clrng
+CASH,Citibank Cash Out Global Netting Clrng
+CASH,Citibank Cash Out TMNA Dividend IHB Account
+CASH,Citibank Global Netting
+CASH,Citibank High Yield Account - CAD
+CASH,CITIBANK INT'L-L.A.
+CASH,CitiBank NY  Cash In Operating Clrng
+CASH,CitiBank NY  Cash Out Operating Clrng
+CASH,CitiBank NY Operating
+CASH,Citibank USD Outstanding Cheques Account
+AREC,Claims Receivable
+GNAD,Cleaning Services
+OTAS,Clearing capitalized Down Payments on Fixed Assets
+AREC,Clearing Interest Receivables
+OTCL,Clearing of Investment receivables received
+CASH,Clrg Cont.Claims-Check/Bill of Exch. Payments
+GNAD,CLUB MEMBERSHIP
+OTCL,COFINS to Recover (BR)
+PCOS,COGS - Engine/Transmission Holding A/C
+PCOS,COGS - Production Parts Holding A/C
+PCOS,COGS - Service Parts Holding A/C
+PCOS,COGS - Vehicles Holding A/C
+PCOS,COGS Direct Material
+PCOS,COGS Material Overhead
+PCOS,COGS Production Overhead
+PCOS,COM Depreciation: Furniture & Fixtures - Plant
+ACCU,COM?Depreciation:Building
+LAND,COM?Depreciation:Land
+PCOS,COM?Depreciation:Machinery&Equipment
+PCOS,COM?Depreciation:Tools&Furniture
+PCOS,COM?Depreciation:vehicle
+PCOS,COM?Depreciation?Software
+PCOS,COM?Direct material (purchased body)
+MISC,COM?Direct material (tooling)
+PCOS,COM?Other adjust. WIP R/M & conversion cost
+MISC,COM?Perishable tools & expensed furniture
+GNAD,COM?Repair & maintenance : Material
+GNAD,COM?Repair & maintenance : Outsourcing
+ACCU,COM?Right of use asset Depreciation:Building
+PCOS,COM?Right of use asset Depreciation:Machinery&Equi
+PCOS,COM?Right of use asset Depreciation:vehicle
+PCOS,COM?Royalty
+PCOS,COM?Training and education expenses
+PCOS,COM-Communication Expenses
+PCOS,COM-Donation
+PCOS,COM-Electric Power Expenses
+PCOS,COM-Entertainment Expenses
+CASH,Comerica - Checking
+CASH,Comerica Checking - Payroll
+PCOS,COM-Freight expenses for purchasing -Other
+PCOS,COM-Gas Expenses
+PCOS,COM-Insurance (For Purchased Material)
+PCOS,COM-Insurance Expenses (Fire)
+MISC,COM-Miscellaneous wage : A
+MISC,COM-Miscellaneous wage : B
+EQUI,Common Stock - Investment Affiliates
+GNAD,Community Outreach - TSSCI Expense
+GNAD,Community Relations
+PCOS,COM-Office Supply Expenses
+PCOS,COM-Other freight expenses
+GNAD,Company Car Contra
+GNAD,Company Car Income
+GNAD,Company Home Expenses
+OPPE,Company Industrial Vehicle
+OPPE,Company Vehicles - Admin
+PCOS,Compressed Air Utilities Cost
+PCOS,COM-Property Taxes
+PCOS,COM-Public Relation Expenses
+FURN,Computer Equipment - Administrative
+FURN,Computer Equipment - Plant
+CENS,Computer Hardware and Equipment
+RNDV,COM-R&D
+PCOS,COM-Taxes (Others)
+PCOS,COM-Technical Assist. & Training Exp.
+MISC,COM-Traveling Expenses
+MISC,COM-Wage-Salary : A - Others
+MISC,COM-Wage-Salary : B/C/Other- Others
+PCOS,COM-Water
+PCOS,COM-Water for production
+CASH,Concentration Bank - JP Morgan
+INVT,CONSIGNED PARTS INVENTO
+OPPE,Construction in Progress
+GNAD,Consulting
+MISC,Consum.Tools-Price Variance
+OLTL,Contingent Liabilities
+MISC,Contingent Workforce
+MISC,Contra Labor COS
+OPPE,Contra-asset Fleet Buyback
+GNAD,Contracted Manufacturing Fee Service
+MISC,Contracted Manufacturing Fee Service
+MISC,Contracted Manufacturing Services
+CASH,Controlled Disb JP M Exports
+CASH,Controlled Disb. - JP Morgan
+CASH,Controlled Disb. - JP Morgan Bank Account
+AREC,Controlled Disb. - JP Morgan Bank Account Cash In
+CASH,Controlled Disb. - JP Morgan TEMA Export Parts Ban
+AREC,Controlled Disb. - JP Morgan TEMA Export Parts Cas
+CASH,Controlled Disb. Bank-PNC
+CASH,Controlled Disb.-Nrthern Trust
+CASH,Controlled Disb.-NT Export
+GNAD,Conversion Costs
+GNAD,Coord Marketing & Training Program
+GNAD,Coord Marketing & Training Program - Recovery
+OTCL,Corporate Income Tax Provision
+OTCL,Correction of Provisions
+GNAD,Corrective Maintenance
+SCOS,COS - Admin Services - A
+SCOS,COS - Admin Services - D
+PCOS,COS - Engines
+PCOS,COS - Export Spec Parts - Tier
+PCOS,COS - Freight Deviations
+OCOS,COS - HYBRID OTHER COS
+PCOS,COS - Other - Use Variance
+OCOS,COS - Other (Miscellaneous)
+PCOS,COS - Parts
+PCOS,COS - Prototype Parts to TMC-NA-Parts
+PCOS,COS - Raw Matl - Metals
+SCOS,COS - Reg Emission Credits
+PCOS,COS - Retro Price Variance
+PCOS,COS - Specific Parts (Tier 2)
+PCOS,COS - TMMC/CAPT/BC Parts - NA
+PCOS,COS - TMMC/CAPT/BC Parts - OS
+SCOS,COS - Toyota Racing Division (TRD) - Material Cost
+SCOS,COS - Toyota Racing Division (TRD) - Other Cost
+PCOS,COS - Vehicles
+OCOS,COS Accessories By Division
+MISC,COS D/L Contract Fring Discr
+MISC,COS D/L -Contract-Fringe Legal
+MISC,COS D/L O/T - Contract
+PCOS,COS Duty
+PCOS,COS- ECI Price Variance
+PCOS,COS Gain/Loss on Sale of FA
+PCOS,COS Inland Freight
+SCOS,COS Labor A
+SCOS,COS Labor B-C
+PCOS,COS NA Freight
+SCOS,COS Operating Suppli
+PCOS,COS Other
+PCOS,COS -Overseas Freight
+OCOS,COS Parts Production Option (PPO) Material
+GNAD,COS Payroll Tax 1.80%
+SCOS,COS Post Production Option (PPO) Labor
+PCOS,COS Proto Parts TMC JPN Parts
+PCOS,COS Prototype Parts JPN Parts
+SCOS,COS QUALITY EXPORT
+SCOS,COS Repairs & Mainte
+SCOS,COS Shipping Charges/ Premium Frght NA
+SCOS,COS Travel
+PCOS,COS Trial Veh/Eng JPN Parts
+PCOS,COS: Purchsd Parts - NAC Governance/Inactive GL Ac
+PCOS,COS: Raw Mtrl. - NAC Governance/Inactive GL Accoun
+PCOS,COS:P&C-IC-frt.
+PCOS,COS:P&C-IC-reval.
+PCOS,COS:P&C-IC-scrap
+PCOS,COS:P&C-IC-std.
+PCOS,COS:P&C-IC-var-pr
+PCOS,COS:P&C-IC-var-qu
+PCOS,COS?Provision for warranties
+OCOS,COS?Reversal of warraty reserve
+OCOS,COS-5% DEALER RET-TOY
+OCOS,COS-ADJUSTMENTS
+SCOS,COS-AUTO CARE
+CASH,COS-BANK CHARGES
+SCOS,COS-BODY SHOP CONTRA
+PCOS,COS-Contracted Manufacturing Services
+PCOS,COS-Depreciation
+MISC,COS-DIR LBR (B1) Qualified Pension Expense
+SCOS,COS-DIR LBR (B2/3) Fringe Discr
+SCOS,COS-DIR LBR (B2/3) FUTA
+SCOS,COS-DIR LBR (B2/3) Qualified Pension Expense
+SCOS,COS-DIR LBR (B2/3) SUTA
+MISC,COS-DIR LBR (C) Qualified Pension Expense
+MISC,COS-DIR LBR (D) Qualified Pension Expense
+PCOS,COS-Duty
+SCOS,COS-ENVIRONMENTAL DAM
+PCOS,COS-Exp Part Over/Under Shipmt
+PCOS,COS-Finished Goods - CBU
+SCOS,COS-Fuel Surcharges
+SCOS,COS-Inspections
+SCOS,COS-INSPECTIONS EXPORT
+SCOS,COS-INSURANCE
+SCOS,COS-Labor - A
+SCOS,COS-Labor - B-C
+SCOS,COS-Labor - D
+OCOS,COS-LIFO
+PCOS,COS-NA Freight
+OCOS,COS-OBSOLESCENCE-SPECIAL ACTVY
+PCOS,COS-OCEAN FRT
+OCOS,COS-Operating Supplies
+PCOS,COS-OS Freight
+PCOS,COS-Other
+PCOS,COS-Other (Cost Kaizen Scope)
+PCOS,COS-Other-Price Variance
+PCOS,COS-Parts Discounts
+OCOS,COS-PARTS LIFO-TOYOTA
+PCOS,COS-Parts-Core Return
+OCOS,COS-PORT SRV
+PCOS,COS-Price Variance-Production
+PCOS,COS-Production Variance - Finished Goods (Vehicle)
+PCOS,COS-Production Variance - I/H Parts
+SCOS,COS-Professional Services
+PCOS,COS-Prototype Parts to TTC
+PCOS,COS-R.Matls-Paint-Std
+PCOS,COS-Rail Freight
+SCOS,COS-RAPGUARD LABOR
+PCOS,COS-Raw Mat Resin-Revalue
+PCOS,COS-Raw Mat.-Fluids-Revalu
+PCOS,COS-Raw Mat.-Metals-Revalu
+PCOS,COS-Raw Mat.-Paint-Revalu
+PCOS,COS-Raw Matls-Fluids-Std
+PCOS,COS-Raw Matls-Fluids-Var.-Pric
+PCOS,COS-Raw Matls-Fluids-Var.-Quan
+PCOS,COS-Raw Matls-Metals-Std
+PCOS,COS-Raw Matls-Metals-Var-Price
+PCOS,COS-Raw Matls-Metals-Var-Quan.
+PCOS,COS-Raw Matls-Paint-Var.-Price
+PCOS,COS-Raw Matls-Paint-Var-Quan
+PCOS,COS-Raw Matls-Resin-Std
+PCOS,COS-Raw Matls-Resin-Var.-Price
+PCOS,COS-Raw Matls-Resin-Var.-Quan.
+SCOS,COS-Repairs & Maintenanc
+PCOS,COS-RM-Fluids-Revalue-Prts
+PCOS,COS-RM-Fluids-Std-Prts
+PCOS,COS-RM-Fluids-Var-Price-Prts
+PCOS,COS-RM-Fluids-Var-Quan-Prts
+PCOS,COS-RM-Metals-Revalue-Prts
+PCOS,COS-RM-Metals-Std-Parts
+PCOS,COS-RM-Metals-Var-Price-Prts
+PCOS,COS-RM-Metals-Var-Quan-Prts
+PCOS,COS-RM-P&C-JPN-Prts
+PCOS,COS-RM-P&C-JPN-Revalu-Prts
+PCOS,COS-RM-P&C-JPN-Revalu-Veh
+PCOS,COS-RM-P&C-JPN-Std-Veh
+PCOS,COS-RM-P&C-JPN-Var Quan-Prts
+PCOS,COS-RM-P&C-JPN-Var Quan-Veh
+PCOS,COS-RM-P&C-JPN-Var-Prts
+PCOS,COS-RM-P&C-JPN-Var-Veh
+PCOS,COS-RM-P&C-NA Var Quan-Veh
+PCOS,COS-RM-P&C-NA-PPV-Allocation
+PCOS,COS-RM-P&C-NA-Revalu-Prts
+PCOS,COS-RM-P&C-NA-Revalu-Veh
+PCOS,COS-RM-P&C-NA-Std-Prts
+PCOS,COS-RM-P&C-NA-Std-Veh
+PCOS,COS-RM-P&C-NA-Var Quan-Prts
+PCOS,COS-RM-P&C-NA-Var-Prts
+PCOS,COS-RM-P&C-NA-Var-Veh
+PCOS,COS-RM-P&C-OS-PPV-Allocation
+PCOS,COS-RM-Paint-Std-Prts
+PCOS,COS-RM-Resin-Std-Prts
+SCOS,COS-ROADSIDE ASSISTANCE
+SCOS,COS-Scrap
+PCOS,COS-Ser Parts IH Dom JPN Parts
+PCOS,COS-Ser.Parts-In H-Export
+PCOS,COS-Specific Parts-Teir 1
+SCOS,COS-Storage
+OCOS,COS-STORAGE EXPORT
+PCOS,COS-Svc Parts Expendable Pkg
+INVT,Cost & Prof Excess of Billing
+SCOS,COS-TMEX INSURANCE
+SCOS,COS-Travel
+PCOS,COS-Trial Vehicles/Engines-NA-Parts
+SCOS,COS-Utilities
+GNAD,Course Delivery
+GNAD,Course Delivery - Recovery
+GNAD,Course Development
+GNAD,Course Development - Recovery
+OTCL,COx Brazil
+OTCL,CPLTLoan Pay-FX Reval
+OTCL,CPLTLoan Pay-FX Translation
+FURN,CPU Hardware - adm func curr
+FURN,CPU Hardware - plant func curr
+CENS,CPU software-adm func curr
+INVT,CREDIT REBILL INVENTORY
+MISC,Credito al Salario
+OTCL,CSLL to Recover (BR)
+TAXS,Cumulated Annual inflationary adjustment
+TAXS,Cumulated Annual inflationary adjustment credit
+OTCS,Current Assets - Other Inactive GL Accounts for Hi
+CASH,Current deposit
+TAXS,Current Income Tax Provision - FIN 48
+OTCS,Current portion of L.T. Loans Receivable
+OTCL,Current Portion of Long-Term Loans Payable
+OTCS,Current Portion of LT Investment
+OTCS,CURRENT PORTION OF LT INVESTMT
+ACMP,Current Retirement & Severance Benefit
+OTCS,Current Valuation Allowance
+APAY,Customers with a Credit Balance
+OTCL,Customs Duty Clearing Account (MM)
+PCOS,Customs Fees
+INVT,Customs Provision (MM)
+GNAD,DA FROM INSURANCE MKTG PRJCTS
+APAY,DEALER ALLOWANCE PROGRAM
+GNAD,Dealer Daily Expenses
+GNAD,Dealer Daily Recoveries
+GNAD,Dealer Facilities Development Cost
+APAY,Dealer Floor Plan
+APAY,Dealer Holdback Payable
+GNAD,Dealer Meetings
+OTCL,DEALER STOCK ACCRUAL
+MISC,Dealers Materials
+MISC,Dealers Materials - Recovery
+GNAD,Dealership Material
+GNAD,Dealership Material - Recovery
+TAXS,Deductible Annual inflationary adjustment
+TAXS,Deductible Annual inflationary adjustment credit
+DITX,Defer. Income Taxes - Federal
+OTCS,Deferd State/Prov Income Taxes
+INAD,DEFERRED COMP. INVST
+OLTL,Deferred Compensation
+INAD,Deferred Compensation Investment
+OTCS,Deferred Federal Income Taxes
+OTCL,Deferred Import input tax (VST)
+STDR,Deferred Inc. - FX Reval
+STDR,Deferred Inc. - FX Translation
+STDR,Deferred Income (Telematics)
+DITX,Deferred Income Taxes (Credit)
+OTCL,Deferred Output tax
+PREV,DEFERRED REV-AUTO CARE (COST)
+PREV,DEFERRED REV-AUTO CARE (M/U)
+OLTL,DEFERRED REVENUE - LT
+OLTL,DEFERRED REVENUE DISC - LT
+OLTL,Deferred Revenue LT - Auto Care
+TAXS,Deferred State/Provincial Income Tax Expense
+OLTL,Defined Benefit Liab. - FX Reval.
+OLTL,Defined Benefit Liab. - FX Translation
+INVT,Delivery Costs Clearing (MM)
+INVT,Delivery Costs Provision (MM)
+GNAD,Dental Insurance Pool
+CENS,Dep Intgl Asset (SGA) - NAC Governance/Inactive GL
+CENS,Dep. Intang Asset - NAC Governance/Inactive GL Acc
+CASH,Deposit Inactive GL Accounts for Historical Balanc
+CASH,Deposit-FX reval.
+CASH,Deposit-FX Translation
+OTCS,Deposits (CMS) - FX Reval.
+OTCS,Deposits (CMS) - FX Translation
+OTCS,Deposits : I/C(S.T)
+OTCL,Deposits Received (I/C) : Domestic-S.T
+OTCL,Deposits Received (Others)
+GNAD,Depr Exp (SGA) - NAC Governance/Inactive GL Accoun
+PCOS,Deprec.- Pit Tools-Dies & Jigs
+ACCU,Deprec.-Building-Plant-Improv.
+PCOS,Deprec.-Co. Indust.Vehicle
+PCOS,Deprec.-Comp. Equip.-Manufact.
+PCOS,Deprec-Fixed Asset Contra
+MISC,Depreciation / Amortization
+MISC,Depreciation / Amortization SG&A
+GNAD,Depreciation Computer Equipment - Admin
+MISC,Depreciation Cost by Model
+PCOS,Depreciation exp - NAC Governance/Inactive GL Acco
+GNAD,Depreciation Expense - Admin Other
+NNOP,Depreciation Expense - Building Improvement
+NNOP,Depreciation Expense - Buildings
+NNOP,Depreciation Expense - Intangible Assets
+ACCU,Depreciation Expense Building Improvement - Admin
+AREC,Depreciation from other Receivables
+MISC,Depreciation local GAAP
+PCOS,Depreciation M&E - Unique
+AREC,Depreciation Receivables from Aff.Companies
+PCOS,Depreciation-Fleet Repurchase
+MISC,Design and Development Cost
+FURN,Dies & Jigs func curr
+PCOS,DIR. LABOR ALLOC CLEARING
+GNAD,Direct Dist Production Equip
+PCOS,Direct Dist Production Equipment
+GNAD,Direct Dist-Benefits
+MISC,Direct Dist-Contingent
+MISC,Direct Dist-Fed Unemploy Tax
+MISC,Direct Dist-FICA
+MISC,Direct Dist-Other Payroll Tax
+MISC,Direct Dist-Overtime
+MISC,Direct Dist-State Unemploy Tax
+GNAD,Direct Dist-Workers Comp
+MISC,Direct Labor (A) - Straight Time
+GNAD,Direct Labor(A)- GL Award/Bonus
+MISC,Direct Labor(A)-Fringe-Discre.
+MISC,Direct Labor(A)-Fringe-Legally
+MISC,Direct Labor(A)-Fringe-Legally GL
+MISC,Direct Labor(A)-GL OT
+MISC,Direct Labor(A)-Non-worked
+MISC,Direct Labor(A)-OT-Manufact.
+GNAD,Direct Mail Advertising
+MISC,Direct Marketing
+PCOS,Direct Mat.(OS)
+GNAD,Direct Mtrl - Other - NAC Governance/Inactive GL A
+MISC,Discrentinry Welfr - NAC Governance/Inactive GL Ac
+EQUI,Disposite Reserve SD
+OREV,DISTRIBUTION PARTICIP
+EQUI,Dividends
+NNRV,DividendsReceived
+GNAD,DL Contract(A)-Award/Bonus
+TECH,Document split acct (trip costs co.code clrg HR)
+TECH,Document Split Clearing Account
+OTCL,Domestic output VAT (reverse charge)
+EQUI,Donated Capital
+GNAD,Donations
+GNAD,Donations - Parts & Vehicles
+GNAD,DONATIONS-PARTS/VEHIC
+APAY,Down Payment Requests Customers
+AREC,Down Payment Requests Vendors
+OTCL,Down Payments - Customers
+OTCS,Down Payments Made due > 1 Year
+OTAS,Down Payments made on Tangible Assets w/o FI-AA
+OTCL,Down Payments received due > 5 Years
+OTCL,Down Payments received due within 1-5 Years
+GNAD,DUES - AAM/AIAM
+GNAD,Dues to Associations
+MISC,Duty
+PREV,Duty Drawback/Remission
+NNRV,Earnings in Afffiliates
+MISC,ECI Reserve
+GNAD,Emergency Maintenance
+GNAD,Empl.Car.Purch.Plan
+GNAD,Employee Assignment Exp
+MISC,Employee Assignment Expenses
+GNAD,Employee Gifts and Recreation
+MISC,Employee Recognition
+MISC,Employee Relations
+GNAD,Employee Relocation
+MISC,Employee Relocation Exp.
+MISC,Employee Relocation Meals
+ACMP,Employee Savings Deposit - FX Reval.
+ACMP,Employee Savings Deposit - FX Translation
+GNAD,Employee Training Expense
+GNAD,Employee Tuition & Other Reimbursement
+ACMP,Employee W/H - Dependent Care
+ACMP,Employee W/H - Federal Income Tax
+ACMP,Employee W/H - Local/Misc. Income Tax
+ACMP,Employee W/H - Medical Flex Spending
+ACMP,Employee W/H - Other
+ACMP,Employee W/H - State Income Tax
+ACMP,Employees' Saving Deposits
+GNAD,Environ. Exp.-Spec.Projects
+GNAD,Environ. Out.Ser. Expense
+GNAD,Environmental Expenses
+APAY,Escheat Funds Payable
+MISC,Estimated Depreciation (CO)
+MISC,EVP INCENTIVES
+ACMP,Excess Savings Plan
+TAXS,Excise Taxes
+SCOS,Expense - Professional Services
+GNAD,Expense Account
+MISC,Expensed Assets COS
+GNAD,Expensed Assets G&A
+GNAD,Expensed Computer Equipment
+TAXS,Export Duty
+TAXS,Export Taxes
+OTCL,Export VAT
+GNAD,Facilities Rearrangement - Admin
+GNAD,Fax and Internet
+MISC,Fed Unemp. Tax Pool
+GNAD,Federal Unemploy. Tax Pool
+PCOS,FG Factory Output - FG (Vehicle stlmt)
+PCOS,FG Factory Output - FG (Vehicle)
+MISC,FG Factory Output - Finished Goods (In-House Parts
+MISC,FG Factory Output - Finished Goods (Vehicle settle
+MISC,FG Factory Output - Finished Goods (Vehicle)
+PCOS,FG Factory Output - Units
+MISC,FG Factory Output - Units (Settlement)
+INVT,FG-New Car Inactive GL Accounts for Historical Bal
+INVT,FG-New Car NAC Governance GL Accounts for Balance
+MISC,FICA - Employer Tax Pool
+CASH,Fifth Third Bank-Hydrogen Fuel
+OTCS,FIN 48 Valuation Allowance - Current
+NNOP,Finance Expense-Loss on securities devaluation
+NNRV,Finance Income-Profit on securities revaluation
+NNRV,FINANCE LEASE INCOME
+INVT,Finished Goods & Merchandise(Auto)?Service Parts a
+INVT,Finished Goods & Merchandise(Auto)?Vehicles
+INVT,Finished Goods & Merchandise(Auto)-Specific parts
+INVT,Finished Goods & Merchandise(Other)
+INVT,Finished Goods & Merchandise(Other) Inactive GL Ac
+INVT,Finished Goods Merchandise Labor and Overhead
+INVT,Finished Goods Merchandise New car Recon Account
+GNAD,Fire Protect.Equip.and Sup.
+BLDG,Fixed Asset Contra Account
+FURN,Fixed Asset Contra Acct - M&E
+NNRV,Fixed Asset Sale Revenue Clearing Account
+OPPE,Fixed Assets Clearing
+FURN,FIXED ASSETS CLEARING-MARINE
+EQUI,Fixed Capital
+GNAD,Fixed Legal Welfare Exp - TMC
+LTPY,Fixed Liabilities - Bonds - Ot
+LTPY,Fixed Liabilities - Bonds - PC
+OTCS,FLAT TAX REC(IETU)
+MISC,Fleet Buy Back Cost of Sales
+MISC,Fleet Buy Back Residual Loss
+MISC,Fleet Buy Back Sales
+MISC,Fleet Dealer Recovery
+OREV,Fleet Incentives
+MISC,Fleet Program Expense
+MISC,Fleet Program Recovery
+ACCU,FLEET REP. ACCUM. DEPREC.
+MISC,Fleet Repurchase Accrual
+GNAD,Food Coupons
+GNAD,Food Service & Equipment
+TAXS,Foreign Income Tax Expense
+MISC,Foreign Tax Expense
+NNRV,ForeignExchangeGain
+NNOP,ForeignExchangeLoss
+GNAD,Franchise Taxes
+PCOS,Freight - General Stores
+GNAD,Freight - Other
+PCOS,Freight - Premium - Overseas
+INVT,Freight Clearing Account (MM)
+PCOS,Freight exp for purchasing - NAC Governance/Inacti
+INVT,Freight Provision (MM)
+INVT,Freight Provision SD
+PCOS,Freight-Overseas
+GNAD,Fringe Benefit Allocation
+INVT,FSA INV 3RD PARTY
+PPEX,FSA PSEUDO VAT
+CASH,FTB Cash In Cash Operating Clrng
+CASH,FTB Cash In Operating Clrng
+CASH,FTB Cash Operating
+CASH,FTB Cash Out Cash Operating Clrng
+CASH,FTB Cash Out Operating Clrng
+CASH,FTB Lockbox Cash Operating Clrng
+CASH,FTB Operating
+OCOS,Fuel
+PREV,FUEL-ADMIN. FEES
+GNAD,Fulfillment Freight - Recovery
+TECH,Functional Area Clearing
+FURN,Furn & Fixtures -adm func curr
+FURN,Furnitr & Fixtr. Governance GL Accounts for Balanc
+FURN,Furnitr & Fixtr. Inactive GL Accounts for Historic
+FURN,Furnitr & Fixtr. Recon GL Account
+FURN,Furniture and Fixtures
+NNRV,FX Gain/loss-Reval Functional
+PREV,FX SALES ADJUSTMENT
+GNAD,G & A - Personnel
+NNRV,Gain Consumption for QM (SF & Finish Goods)
+OREV,Gain from allowed Differences GL Account Clearing
+NNRV,Gain from Asset Transactions
+OREV,Gain from currency valuation
+OREV,Gain from exchange rate differences
+OREV,Gain from Long Term Investment
+OREV,Gain from Production Variances
+OREV,Gain from rounding dif. foreign currency (MM)
+OREV,Gain from Valuation of External Products
+OREV,Gain from Valuation own Products
+NNRV,Gain Inventory Transfer (Raw & Trade)
+NNRV,Gain Inventory Transfer (SF & Finish Goods)
+NNRV,Gain Inventory Value Adjustment Ext. Prod. (BSK)
+NNRV,Gain Inventory Value Adjustment Own Prod. (BSK)
+NNRV,Gain Inventory Variance (Raw & Trade)
+NNRV,Gain Inventory Variance (SF & Finish Goods)
+GNAD,GAIN OR LOSS - CO CARS
+NNRV,Gain/loss-FX rate
+GNAD,GAS RECOVERY
+OTCS,GAS TANK CLEARING
+OCOS,GAS TANK PROG VAR
+MISC,General Exp Other - NAC Governance/Inactive GL Acc
+CASH,GLBank_123
+CASH,Global Netting Bank - Citibank
+CASH,Global Netting Bank-Citi (CAD)
+AREC,GLOBAL NETTING CLEARING
+INVT,GM-PJJ PARTS INVY
+INVT,GM-PJJ PARTS MIT
+OTCL,Goods Received / Invoice Received Adjustment
+OTAS,Goodwill
+OLTL,Goodwill Inactive GL Accounts for Historical Balan
+INVT,GR/IR Sett.transferred (material ledger)
+OTCL,GR/IR: Goods and Services not yet delivered
+OTCL,GR/IR: Goods and Services not yet invoiced
+GNAD,Grounds Maintenance
+GNAD,Group Life Insurance-Pool
+AREC,GST/HST Input Tax Credit Receivable Adjustment
+OTCL,GST/HST Self-Assess
+OTAS,Guarantees given to Customers
+GNAD,Hardware Maintenance
+TAXS,Hazardous Waste Taxes
+ACMP,Health Savings Flex Spending
+CONV,Historical Balance Conversion
+ACMP,Holiday Pay
+MISC,Holiday Pay Pool
+GNAD,Holiday Pay Pool - Admin
+ACMP,Holiday Pay Provision previous year
+GNAD,HR Recruitement
+ACMP,HSA Clearing
+MISC,Hypothetical Tax Withholding
+APAY,I/C A/R TCI
+AREC,I/C MISCELLANEOUS TMS PESOS
+APAY,I/C Payables
+APAY,I/C PENSION
+AREC,I/C Pension NQ Receivable
+APAY,I/C Pension NQ  PAYABLE
+AREC,I/C Pension  Receivable
+AREC,I/C PRM -  Sales Receivable
+APAY,I/C PRM - MFG Payable
+AREC,I/C PRM - MFG Receivable
+APAY,I/C PRM- Sales Payable
+APAY,I/C REC WITH TMS/TAIL
+APAY,I/C REC/PAY W CALTY
+APAY,I/C REC/PAY W/TMIC
+APAY,I/C REC/PAY W/TMIC-1
+APAY,I/C REC/PAY W/TMIS
+APAY,I/C REC/PAY W/TMM-NA
+APAY,I/C REC/PAY with TDM
+APAY,I/C REC/PAY WITH TMCC
+APAY,I/C RECPAY TMSM W / TMEX PESOS
+AREC,I/C RECPAY TMSMS W / TMS USD
+AREC,I/C RecPay w/ TDM Recov Claims
+APAY,I/C RECPAY W/TFS MEXICO
+APAY,I/C RECPAY W/TMSMI
+OTCS,I/C ST LOANS RECEIVABLE-RTC
+APAY,I/C Tax Payable
+AREC,I/C Tax Receivable
+AREC,I/C TDM w SERVICIOS (MXP)
+AREC,I/C TDM w/ TMEX (MXP)
+AREC,I/C TMA with TdM
+APAY,I/C TMS with TdM
+APAY,I/C WITH AIRFLITE
+APAY,I/C WITH TAI-LEASING
+APAY,I/C WITH TDPR
+APAY,I/C WITH TLS
+APAY,I/C WITH TMA
+APAY,I/C WITH TMS
+APAY,I/C WITH TMSPS
+APAY,I/C WITH TRD
+TAXS,I/T Current - NAC Governance/Inactive GL Account b
+GNAD,IAAS - INFRASTRUCURE AS A SERVICE
+APAY,IC AP-Due to BODINE
+APAY,IC AP-Due to CAPTIN
+APAY,IC AP-Due to CCP
+APAY,IC AP-Due to NUMMI
+APAY,IC AP-Due to TABC
+APAY,IC AP-Due to TABCH
+APAY,IC AP-Due to TCI
+APAY,IC AP-Due to TEMA
+APAY,IC AP-Due to TMCA
+APAY,IC AP-Due to TMMAL
+APAY,IC AP-Due To TMMBC
+APAY,IC AP-Due to TMMBCS
+APAY,IC AP-Due to TMMC
+APAY,IC AP-Due to TMMCA
+APAY,IC AP-Due to TMMGT
+APAY,IC AP-Due to TMMGTS
+APAY,IC AP-Due to TMMI
+APAY,IC AP-Due to TMMK
+APAY,IC AP-Due to TMMMS
+APAY,IC AP-Due to TMMNK
+APAY,IC AP-Due To TMMTX
+APAY,IC AP-Due to TMMWV
+APAY,IC AP-Due to TMNA
+APAY,IC AP-Due to TMS
+APAY,IC AP-Due to TSSC
+AREC,IC AR - Due from TMMGT
+AREC,IC AR - Due from TMMGTS
+AREC,IC AR-Due from BODINE
+AREC,IC AR-Due from CAPTIN
+AREC,IC AR-Due from NUMMI
+AREC,IC AR-Due from TABC
+AREC,IC AR-Due from TABC CCP
+AREC,IC AR-Due from TABCH
+AREC,IC AR-Due from TCI
+AREC,IC AR-Due from TMC
+AREC,IC AR-Due from TMCA
+AREC,IC AR-Due from TMMAL
+AREC,IC AR-Due From TMMBC
+AREC,IC AR-Due from TMMBCS
+AREC,IC AR-Due from TMMC
+AREC,IC AR-Due from TMMCA
+AREC,IC AR-Due from TMMI
+AREC,IC AR-Due from TMMK
+AREC,IC AR-Due From TMMMS
+AREC,IC AR-Due From TMMNK
+AREC,IC AR-Due From TMMTX
+AREC,IC AR-Due from TMMW
+AREC,IC AR-Due from TMNA
+AREC,IC AR-Due from TMS
+AREC,IC AR-Due from TSSC
+AREC,IC Oth AR-Due frm BODNE (TMMC)
+AREC,IC Oth AR-Due from TABC (TMMC)
+AREC,IC Oth AR-Due from TEMA (TMMC)
+AREC,IC Oth AR-Due from TMC (TMMC)
+AREC,IC Oth AR-Due from TMMC (TMMC)
+AREC,IC Oth AR-Due from TMMI (TMMC)
+AREC,IC Oth AR-Due from TMMK (TMMC)
+AREC,IC Oth AR-Due from TMS (TMMC)
+AREC,IC Oth AR-Due rom CAPTN (TMMC)
+APAY,IC PAYABLE - GLOBAL NETTING
+AREC,IC Rec-Due from TEMA
+AREC,IC RECPAY TDM / TMMGT_PESOS
+APAY,IC RECPAY TMEX/TMS_PESOS
+APAY,IC RECPAY TMS/TMEX_USD
+APAY,IC with TLS (New Unit Proc Cost)
+OTCL,ICMS to Recover (BR)
+GNAD,ICO Expense Travel
+MISC,IDL Contract(C)- Manufact.
+MISC,IDL Contract(C)-O/T-Manufact
+MISC,IDL Contract(D)-Manufact
+MISC,IDL Contract(D)-O/T-Manufact
+GNAD,Image USA II Sign Project
+PCOS,Import Duty
+PCOS,Import Duty - Mexico
+GNAD,Import Duty SGA
+OTCL,Import Sales Tax paid (VST)
+OTCL,Import VAT delayed (reverse charge)
+OTCL,IMSS - W/H
+INVT,In Transfer - Parts
+PCOS,Inbound Freight
+PCOS,Inbound freight - Overseas
+OTCS,Inc. Tax Rec. Inactive GL Accounts for Hist
+PCOS,Inc/Dcr WIP - NAC Governance/Inactive GL Account b
+SCOS,Incent COS - Free prod or svcs
+MISC,Incentives-Other Programs
+OREV,Incentives-Wholesales Not Yet Retailed
+MISC,Income Tax
+OTCS,Income Tax - FX Reval
+OTCS,Income Tax - FX Translation
+OTCS,INCOME TAX MONTHLY ADVANCES
+OTCS,INCOME TAX REC/DEFINITIVE
+OTCS,Income Taxes Receivable
+OTCS,Income Tax-FX Revaluation
+OTCS,Income Tax-FX Translation
+ACMP,Income Withholding Tax-Foreign
+ACMP,Income Withholding Tax-Local
+TAXS,IncomeTaxe
+TAXS,IncomeTaxes?Deferred
+GNAD,Indir Oper Sup-Chem-Phos&Bonde
+GNAD,Indir Oper Sup-Chem-Prim Surf&
+GNAD,Indir Oper Sup-Ol Water
+GNAD,Indir.Oper.Sup.-Petro Chemical
+GNAD,Indir.Oper.Sup.-Price Variance
+MISC,Indirect Labor - Award Bonus D
+MISC,Indirect Labor - OT-Straight
+MISC,Indirect Labor - Overtime Prem
+MISC,Indirect Labor (B) - NAC Governance/Inactive GL Ac
+MISC,Indirect Labor © - GL- OT
+MISC,Indirect Labor © - GL- ST
+GNAD,Indirect Labor C - GL - Fringe
+MISC,Indirect Labor- GLAward/Bonus-(C)
+MISC,Indirect Labor Tmp-Manuf-Agen.
+GNAD,Indirect Labor(B)-Fringe-Discr
+GNAD,Indirect Labor(B)-Fringe-Legal
+MISC,Indirect Labor(B)-Non-Worked
+GNAD,Indirect Labor(C)-Fringe-Discr
+GNAD,Indirect Labor(C)-Fringe-Legal
+MISC,Indirect Labor(C)-Non-Work
+GNAD,Indirect Labor(D) Fringe
+GNAD,Indirect Labor(D) Fringe-Disc
+MISC,Indirect Labor(D) MFG
+MISC,Indirect Labor(D) OT MFG
+MISC,Indirect Labor(D)-Non-Work
+MISC,Indirect Labor-Manufact-(C)
+MISC,Indirect Labor-OT-Manufact-(B)
+MISC,Indirect Labor-OT-Manufact-(C)
+GNAD,Indirect Labor-Rework
+MISC,Indirect Labor-Rework Recovery
+GNAD,Indirect Oper. Sup.-Quan.Var
+GNAD,Indirect Oper.Sup.-GS-Revalu
+GNAD,Indirect Oper.Sup.-Out.Ser.
+GNAD,Indirect Operating Supplies - General
+OTCL,Individual income tax withheld
+AREC,Individual Value Adjustments for Receivables
+FURN,Industrial vehicles func curr
+CASH,InHouse Bank
+FURN,In-House Production Tooling
+INVT,Initial FI-AM offset
+OCOS,INLAND DAMAGE EXP-MIS
+MISC,IN-MARKET DIGITAL
+APAY,Input CENVAT
+OTCL,Input Tax (ESE)
+OTCL,Input Tax (ICx)
+OTCL,Input Tax (J1*)
+OTCL,Input Tax (VS1)
+OTCL,Input Tax (VS2)
+OTCL,Input tax (VS3)
+OTCL,Input Tax (VS4)
+OTCL,Input Tax (VST)
+APAY,Input tax / Fixed assets VST
+OTCS,Input Tax Clrg-other Down Pyts Made for Curr. Asts
+TAXS,Input Tax non deductable (NAV)
+APAY,input VAT- deductible
+PCOS,INSS (Direct Production Cost) (BR)
+OTCL,INSS Contractors to Pay (BR)
+OTCL,INSURANCE DEDUCTIBLE ACCR
+GNAD,Insurance Exp (SGA) - NAC Governance/Inactive GL
+OTAS,Intang Asset - Other FX Translation
+OTAS,Intang. Asset - Other - FX Reval.
+OTAS,Intang. Asset - Other - FX Translation
+OTAS,Intang. Asset - Other Inactive GL Accounts
+CENS,Intang. Asset - Other Inactive GL Accounts for His
+CENS,Intang. Asset - Other NAC Governance GL Accounts f
+OTAS,Intang. Asset - Other Recon GL Account
+CENS,Intang. Asset Recon GL Account
+CENS,Intang. FA Software - FX Translation
+CENS,Intang. FX Software - FX Reval.
+OTAS,Intangible Assets
+CENS,Intangible Assets - Admin
+OTAS,Intangible Assets - Goodwill
+CENS,Intangible Assets - Software
+OTAS,Intangible Assets Func Curr
+OTAS,Intangible Assets(Emission Credit)
+MISC,Interactive Media
+AREC,INTERCOMPANY CLEARING
+MISC,Interest (Expense)
+NNRV,Interest and Discount Earned
+NNOP,Interest Exp : Loan
+NNOP,Interest Exp : Others
+NNOP,Interest Expense
+NNOP,Interest Expense - IRB
+NNOP,Interest Expense - PCB
+NNOP,Interest Expense - Subsidiaries
+NNRV,Interest Income
+NNRV,Interest Income - Taxable Securities
+NNRV,Interest Income - Tax-Exempt Securities
+AREC,Interest Receivable
+AREC,Interest Receivables
+NNOP,InterestExp.onBond
+RNDV,Internal Development
+INVT,Inv - Raw Materials Steel Recon Account
+INVT,Inv F.G.-Assembly/Export Parts
+INVT,Inv F.G.-Engines
+INVT,Inv F.G.-Engines Recon Account
+INVT,Inv F.G.-Prototype Parts
+INVT,INV PENDING DECISION-MEXICO
+INVT,Inv WIP-Labor
+INVT,Inv WIP-Overhead
+INAD,Inv. Security NAC Governance GL Accounts for Balan
+INAD,Inv. Security Others - FX Reval.
+INAD,Inv. Security Others - FX Translation
+INVT,Inventory - Company Stores
+INVT,Inventory - F.G. Fluids
+INVT,Inventory - General Stores Recon Account
+INVT,Inventory - TDPR
+INVT,Inventory Adjustment
+INVT,Inventory Exp. Prts Australia
+INVT,INVENTORY OBSOLESCENCE
+OTCL,INVENTORY OFFSET
+INVT,Inventory received in consignation
+INVT,Inventory received in consignation credit
+INVT,Inventory-FG-Assem.-Air Order
+INVT,Inventory-Parts & Components-NA
+CASH,INVESTMENT ACCT
+TAXS,Investment deduction
+TAXS,Investment deduction credit
+INAD,Investment in Subsidiary
+INAD,Investment Securities - Bond
+INAD,Investment Securities - Mutual fund
+INAD,Investment Securities - Others
+INVT,Inv-Raw Material Inactive GL Accounts for Historic
+INVT,Inv-Raw Material NAC Governance GL Accounts for Ba
+INVT,Inv-Raw Materials - Paint
+INVT,Inv-Raw Materials - Paint Recon Account
+INVT,Inv-Raw Materials Revaluation
+INVT,Inv-Raw Matls - Resin
+INVT,Inv-Raw Matls - Resin Recon Account
+INVT,Inv-Raw Matls-Fluids
+INVT,Inv-Raw Matls-Fluids Recon Account
+INVT,Inv-Raw Matls-P & C .Frt-CDN
+INVT,Inv-Raw Matls-P & C Frt-JPN
+INVT,Inv-Raw Matls-P & C Frt-US
+INVT,Inv-Raw Matls-P & C-Intran-JP
+INVT,Inv-Raw Matls-P&C Intransit-NA
+INVT,Inv-RM Indirect Intransit
+INVT,Inv-RM/Parts & Components - NA Recon Account
+INVT,Inv-RM-Parts & Components- Overseas Recon Account
+INVT,Inv-RM-Parts & Components-JPN
+INVT,Inv-WIP Inactive GL Accounts for Historical Balanc
+OTCL,IPI to Recover (BR)
+OTCL,IR to Recover (BR)
+OTCL,ISS to Recover (BR)
+STIT,IT Pay-FX Reval
+STIT,IT Pay-FX Translation
+CASH,J P MORGAN CHASE-ADV ACC
+GNAD,Janitorial Supplies
+CASH,Japanese Disbursmnt BK- BOTT M
+CASH,Japanese Disbursmnt Bnk-Sanwa
+CASH,Japanese Disbursmnt Bnk-Sumito
+CASH,Japanese Disbursmnt Bnk-Tokai
+PREV,Job Contract Revenue Non-TMC
+PREV,Job Contract Revenue TMC
+CASH,JPM Cash In Toyota Mazda JV Clrng
+CASH,JPM Cash Out Toyota Mazda JV Clrng
+CASH,JPMC  Cash In Operating Clrng
+CASH,JPMC  Cash Out Operating Clrng
+CASH,JPMC Cash In CDA Payment Clrng
+CASH,JPMC Cash In Concentration Operating Clrng
+CASH,JPMC Cash In Payment Clrng
+CASH,JPMC Cash In TEMA Payroll Clrng
+CASH,JPMC Cash Out CDA Payment Clrng
+CASH,JPMC Cash Out Concentration Operating Clrng
+CASH,JPMC Cash Out Payment Clrng
+CASH,JPMC Cash Out TEMA Payroll Clrng
+CASH,JPMC CDA Payment
+CASH,JPMC Concentration Operating
+CASH,JPMC Operating
+CASH,JPMC Payment
+CASH,JPMC TEMA Payroll
+GNAD,Kaizen Implementation
+CASH,KEYBANK DISBURSEMENTS
+OPLS,L.T. Capital Lease Obligation
+LTDR,L.T. Deferred Income Taxes (Credit)
+OTAS,L.T. Deferred Tax Assets
+INAD,L.T. Deposits
+LTPY,L.T. Loans Payable
+INAD,L.T. Loans Receivable - Other
+INAD,L.T. Loans to Employees
+GNAD,L/T Disability Insur Pool
+GNAD,L/T Disability Insurance Pool
+MISC,Labor - B-C
+MISC,Labor - D - Permanent & Temporary
+MISC,Labor (A) Base Wage
+GNAD,Labor (A) Bonus
+MISC,Labor (A) Disability Pay
+MISC,Labor (A) FICA
+MISC,Labor (A) FUTA
+MISC,Labor (A) Group Ins
+MISC,Labor (A) Misc Emp Fringe
+MISC,Labor (A) Other Abs
+MISC,Labor (A) Other Payroll Taxes
+MISC,Labor (A) OT-Prem
+MISC,Labor (A) OT-ST
+MISC,Labor (A) Post Retire
+MISC,Labor (A) Savings Plan
+MISC,Labor (A) Shift Prem
+MISC,Labor (A) SUTA
+MISC,Labor (A) Vacation
+MISC,Labor (A) Workers Comp
+MISC,Labor (B1) Base Wage
+MISC,Labor (B1) Bonus
+GNAD,Labor (B1) Disability Pay
+GNAD,Labor (B1) FICA
+GNAD,Labor (B1) Group Ins
+GNAD,Labor (B1) Misc Emp Fringe
+MISC,Labor (B1) Other Abs
+GNAD,Labor (B1) Other Payroll Taxes
+MISC,Labor (B1) OT-Prem
+MISC,Labor (B1) OT-ST
+MISC,Labor (B1) Post Retire
+MISC,Labor (B1) Savings Plan
+MISC,Labor (B1) Shift Prem
+MISC,Labor (B1) Vacation
+GNAD,Labor (B1) Workers Comp
+MISC,Labor (B2/3) Base Wage
+MISC,Labor (B2/3) Bonus
+GNAD,Labor (B2/3) Disability Pay
+GNAD,Labor (B2/3) FICA
+GNAD,Labor (B2/3) Group Ins
+GNAD,Labor (B2/3) Misc Emp Fringe
+MISC,Labor (B2/3) Other Abs
+MISC,Labor (B2/3) OT-Prem
+MISC,Labor (B2/3) OT-ST
+MISC,Labor (B2/3) Post Retire
+MISC,Labor (B2/3) Savings Plan
+MISC,Labor (B2/3) Shift Prem
+MISC,Labor (B2/3) Vacation
+GNAD,Labor (B2/3) Workers Comp
+MISC,Labor (C) Base Wage
+MISC,Labor (C) Bonus
+GNAD,Labor (C) Disability Pay
+GNAD,Labor (C) FICA
+GNAD,Labor (C) FUTA
+GNAD,Labor (C) Group Ins
+GNAD,Labor (C) Misc Emp Fringe
+MISC,Labor (C) Other Abs
+GNAD,Labor (C) Other Payroll Taxes
+MISC,Labor (C) OT-Prem
+MISC,Labor (C) OT-ST
+MISC,Labor (C) Post Retire
+MISC,Labor (C) Savings Plan
+MISC,Labor (C) Shift Prem
+GNAD,Labor (C) SUTA
+MISC,Labor (C) Vacation
+GNAD,Labor (C) Workers Comp
+MISC,Labor (D) Base Wage
+MISC,Labor (D) Bonus
+GNAD,Labor (D) Disability Pay
+GNAD,Labor (D) FICA
+GNAD,Labor (D) FUTA
+GNAD,Labor (D) Group Ins
+GNAD,Labor (D) Misc Emp Fringe
+MISC,Labor (D) Other Abs
+GNAD,Labor (D) Other Payroll Taxes
+MISC,Labor (D) OT-Prem
+MISC,Labor (D) OT-ST
+MISC,Labor (D) Post Retire
+MISC,Labor (D) Savings Plan
+MISC,Labor (D) Shift Prem
+GNAD,Labor (D) SUTA
+MISC,Labor (D) Vacation
+GNAD,Labor (D) Workers Comp
+MISC,Labor (E) Base Wage
+MISC,Labor (E) Bonus
+MISC,Labor (E) Disability Pay
+MISC,Labor (E) FICA
+MISC,Labor (E) FUTA
+GNAD,Labor (E) Group Ins
+MISC,Labor (E) Misc Emp Fringe
+MISC,Labor (E) OT
+GNAD,Labor (E) Other Abs
+MISC,Labor (E) Other Payroll Taxes
+GNAD,Labor (E) Post Retire
+GNAD,Labor (E) Savings Plan
+MISC,Labor (E) SUTA
+GNAD,Labor (E) Vacation
+GNAD,Labor (E) Workers Comp
+MISC,Labor A
+MISC,LABOR A - Activity Price
+MISC,Labor A - Round Diff
+PCOS,Labor Absorption
+PCOS,Labor Absorption-E/G Parts
+MISC,Labor Cost Overhead Rate
+PREV,Labor Cost Settlement
+MISC,Labor Selling & Admin
+MISC,Labor Temporary - Payroll
+LAND,Land
+LAND,Land - FX Reval.
+LAND,Land - FX Translation
+ACCU,Land : Accumulated Depreciation
+LAND,Land : Right-of-use asset
+LAND,Land : Right-of-use asset - Financing
+ACCU,Land : Right-of-use asset(Accumulated Depreciation
+ACCU,Land : Right-of-use asset(Accumulated Impairment L
+ACCU,Land : ROU (A/D) - Financing
+LAND,Land Func Curr
+LAND,Land improve-adm Func Curr
+LAND,Land Improvements - Administrative
+LAND,Land Improvements - Plant
+LAND,Land improve-plant Func Curr
+LAND,Land Recon GL Account
+LAND,Landscaping & Grounds Maintenance
+GNAD,Law Related Exp - NAC Governance/Inactive GL Accou
+APAY,LDA ADVERTISING PAYABLE
+MISC,LDA Co-op Media
+GNAD,Lease Car Expense - Other Non Variable
+PCOS,Lease Expense - Operating - Fixed COS
+GNAD,Lease Expense - Operating - Fixed SGA
+PCOS,Lease Expense - Operating - Variable COS
+GNAD,Lease Expense - Operating - Variable SGA
+OPLS,LEASE INCENTIVES
+OPLS,Lease Liability clearing
+LEAS,Leasehold - Improv. - FX Reval.
+LEAS,Leasehold - Improv. - FX Translation
+LEAS,Leasehold - Improv. Recon GL Account
+LEAS,Leasehold Improvements - Administrative
+LEAS,Leasehold Improvements - Plant
+EQUI,Legal Reserve
+EQUI,Legal Reserve GL Accounts for Historical Balance T
+GNAD,Legal Service
+GNAD,Legal Welfard D - TMC
+MISC,Legal Welfare A - TMC
+MISC,Legal Wlfr (SGA) - NAC Governance/Inactive GL Acco
+MISC,Legl Welfare (A) - NAC Governance/Inactive GL Acco
+GNAD,Legl Welfare (B) - NAC Governance/Inactive GL Acco
+GNAD,Legl Welfare (C) - NAC Governance/Inactive GL Acco
+OCOS,LEXUS - 1ST SERVICE VARIANCE
+APAY,LEXUS LDA PAYABLE
+OLTL,Liab. for Supplemental Trust
+OPPE,LIC VEH-Affiliate Lease
+OPPE,LIC VEH-CONTRA
+OPPE,LIC Vehicle-Employee/Manager Lease
+OPPE,LIC Vehicle-Pool Cars
+OPPE,LIC Vehicle-Special Lease
+OTCL,License tax for vehicles and vessels
+PCOS,Lifetime Guarantee Claims Expense
+MISC,Literature
+OTCS,Loan Rec-FX Reval.
+OTCS,Loan Rec-FX Translation
+OTCL,Loans from Banks remaining Life < 1 Year
+OLTL,Loans from Banks remaining Life > 5 Years
+OTCL,Loans from Banks remaining Life 1-5 Years
+OTCS,Loans to Staff
+GNAD,Long Service Leave
+INAD,LONG TERM INVESTMENTS
+OPLS,Long Term Operating Lease Obligation
+OLTL,Long-term Property Tax Accrual
+MISC,Loss from allowed Differences GL Account Clearing
+NNOP,Loss from Asset Transactions
+NNOP,Loss Inventory Transfer (Raw & Trade)
+NNOP,Loss Inventory Transfer (SF & Finish Goods)
+NNOP,Loss Inventory Value Adjustment Own Prod. (BSK)
+NNOP,Loss Inventory Variance (Raw & Trade)
+NNOP,Loss Inventory Variance (SF & Finish Goods)
+NNOP,LossonSalesofSecurities_Others
+OPLS,LT Cap Leas-FX Reval
+OPLS,LT Cap Leas-FX Translation
+LTDR,LT Def Tax-FX Reval
+LTDR,LT Def Tax-FX Translation
+OTAS,L-T Defer.State/Prov.Inc.Tax
+OLTL,LT Deferred Rent
+LTDR,L-T Deferred Tax - State
+INAD,LT Deposit - FX Reval.
+INAD,LT Deposit - FX Translation
+OLTL,LT FLEET REPURCH DEF INCOME
+OTAS,LT Inc Tax-FX Reval.
+OTAS,LT Inc Tax-FX Translation
+OPLS,LT Lease Liability - Operating
+OLTL,LT Liab - Other GL Accounts for Historical Balance
+OLTL,LT Liab-FX Reval
+OLTL,LT Liab-FX Translation
+LTPY,LT Loan Pay-FX Reval
+LTPY,LT Loan Pay-FX Translation
+INAD,LT Loan Rec-FX Reval
+INAD,LT Loan Rec-FX Translation
+LTPY,L-T Loans Payable - Interco.
+LTPY,LT NOTES PAYABLE - OTHER
+LTPY,LT PAYABLE WITH AFFILIATES
+PPEX,LT Prepaid Expenses - FX Reval.
+PPEX,LT Prepaid Expenses - FX Translation
+ACCU,M&E :  ROU (Accumulated Impairment Loss)
+ACCU,M&E : ROU (A/D) - Financing
+OPPE,Mach & Eq. CIP(TEMA A/F Use)
+OPPE,Mach&Equip-CIP (NAMC A/F Use)
+FURN,Machinery & Equip. - FX Reval.
+FURN,Machinery & Equip. - FX Translation
+FURN,Machinery & Equip. Recon GL Account
+FURN,Machinery & Equipment - Plant
+FURN,Machinery & Equipment - Unique
+FURN,Machinery & Equipment-ITC
+FURN,Machinery & Equipments
+ACCU,Machinery & Equipments : Accumulated Depreciation
+FURN,Machinery & Equipments : Right-of-use asset
+FURN,Machinery & Equipments : Right-of-use asset - Fina
+ACCU,Machinery & Equipments : Right-of-use asset(Accumu
+GNAD,Management & Pre-employment Physical
+MISC,Management Fee
+SNMT,Marketing Expense
+PCOS,Matl Consumption - In-house and Sub-assembly
+PCOS,Matl Consumption-IH
+GNAD,MDC PACKAGING MATERIALS
+GNAD,MDC RENT EXPENSE RECOVERY
+GNAD,Meals
+MISC,Meals Expenses
+MISC,Media - Image Promotion
+MISC,Media - Other
+MISC,Media - Print Publications
+MISC,Media - Radio
+MISC,Media - TV
+GNAD,Medical Fac. Equip.and Sup.
+GNAD,Medical Fac.Equip.and Sup.
+GNAD,Medical Insurance Pool COS
+GNAD,Medical Insurance Pool G&A
+GNAD,Meeting Expenses
+GNAD,Meeting Expenses - Recovery
+MISC,Membership Fees
+GNAD,Membership Fees - Admin.
+MISC,Merchandising-Media
+OTCL,MEXICO ACCRD INFONACOT
+OTCL,MEXICO ACCRD PROFIT SHARING
+OTCL,MEXICO ACCRD SOCIAL SECURITY
+OTCL,Mexico Accrued - INFONAVIT
+OTCL,Mexico Accrued - Payroll Tax
+MISC,Mexico Infonavit Expense
+MISC,Mexico Payroll Tax Expense
+MISC,Mexico Profit Sharing Expense
+MISC,MEXICO SAR EXP
+MISC,Mexico SAR expense
+MISC,Mfg Pension Expense Pool
+GNAD,Mgt Fee/Admin Services
+GNAD,Misc Employee Fringe Benefits
+MISC,Misc. Labor (A) - NAC Governance/Inactive GL Accou
+MISC,Misc. Labor (C) - NAC Governance/Inactive GL Accou
+GNAD,Misc. Supplies & Services
+MISC,Misc. Wage (SGA) - NAC Governance/Inactive GL Acco
+OCOS,Miscellaneous COS
+GNAD,Miscellaneous Expense Recovery
+INVT,MIT - Vehicles
+CASH,Money Market Account
+CASH,MONEY MARKET FUND
+OPPE,Motor Vehicles
+CASH,MTMUS JP Morgan Chase
+MISC,NA Component Usage Variance
+PCOS,NA Export/Serv Parts - Retro
+GNAD,NA Tech Assist & Trainer Exp
+GNAD,NA Tech Assist & Trainer SG&A
+INVT,NAPLD In Transit Parts
+LTDR,NC Deferred Tax Liability
+EQUI,NCI Capital Surplus
+EQUI,NCI Retained Earnings-Dividends
+EQUI,NCI Retained Earnings-Income
+EQUI,NCI Retained Earnings-Other Decreases
+EQUI,NCI Retained Earnings-Other Increases
+TAXS,Net fiscal prft acct reinvested of PY
+TAXS,Net fiscal prft acct reinvested of PY credit
+TAXS,Net fiscal profit
+TAXS,Net fiscal profit account
+TAXS,Net fiscal profit account credit
+TAXS,Net fiscal profit credit
+OPPE,NET FLEET REP. LSE ASSET
+MISC,NON ASSOC WORKFORCE RECOVERIES
+OTAS,Non Current  MTM Deferred Tax Asset
+LTDR,Non Current  MTM Deferred Tax Liability
+OTAS,Non Current Deferred Income Tax Asset
+OTAS,Non Current FIN48 DTA
+OTAS,Non Current Pension DTA - DTL
+MISC,Non deductible Exp for Tax
+MISC,Non Production - Material Consumption
+GNAD,Non R&D - Test
+EQUI,Noncontrolling Interest
+PPEX,Non-current prepaid expenses
+NNRV,Non-Operating Income - Profit Sales Securities (Ot
+PCOS,NON-PARTS MAT'L-SCRAP
+MISC,Nonqualified Pension Expense
+MISC,North America Freight
+CASH,NTB Cash In Concentration Disb Clrng
+CASH,NTB Cash In Export Part Concentration Disb Clrng
+CASH,NTB Cash In Payment Concentration Disb Clrng
+CASH,NTB Cash Out Concentration Disb Clrng
+CASH,NTB Cash Out Export Part Concentration Disb Clrng
+CASH,NTB Cash Out Payment Concentration Disb Clrng
+CASH,NTB Concentration Disb
+CASH,NTB Export Part Concentration Disb
+CASH,NTB Payment Concentration Disb
+OCOS,Obsolescence Cost
+EQUI,OCI PENSION & BENEFITS TAX
+EQUI,OCI UNREALIZ G/L SECURITY TAX
+FURN,OFFICE EQUIPMENT
+AREC,Offsetting Account Revaluation APC
+AREC,Oher Receivables - Equivalent not-OI account
+PREV,On-Account Issued (Service Provider)
+PREV,On-Account Utilized (Service Provider)
+MISC,ONLINE / DIGITAL VIDEO
+MISC,Operating Supplies
+MISC,Other
+MISC,Other (Cost Kaizen Scope)
+CASH,Other Cash Incentives
+TAXS,Other Company Taxes
+MISC,Other Components of NPPC
+MISC,Other Components of NPPC - NQ Pension
+MISC,Other Components of NPPC - PRB
+EQUI,Other Comprehensive Income
+OTCL,Other Cur Lia-FX Reval
+OTCL,Other Cur Lia-FX Translation
+OTCS,Other Current Assets
+INAD,Other Current Financial Assets - FX Reval.
+INAD,Other Current Financial Assets - FX Translation
+OTCL,Other Current Liabilities - Other
+GNAD,OTHER EMPLOYEE EXPENSE
+GNAD,Other Exp - Material Dist Center (MDC)
+MISC,Other Expense
+GNAD,Other Expense Recoveries
+MISC,Other Expense?Loss On Disposal Of Fixed Assets
+GNAD,Other Expenses
+GNAD,Other Expenses - Sales
+NNRV,Other Extraordinary Income
+PREV,Other Inc. - NAC Governance/Inactive GL Account ba
+GNAD,Other Income - Material Dist Center (MDC)
+NNRV,Other Income?Other
+INAD,Other Long Term Assets
+GNAD,Other Marketing Expense
+MISC,Other Miscellaneous Exp.
+OTAS,Other Non-Current Asset - FX Translation
+OLTL,Other Non-Current Liabilities - Others
+NNRV,Other Non-op Inc. - NAC Governance/Inactive GL Acc
+MISC,Other Non-Oper. Income / (Expense)
+GNAD,Other Occupancy Expenses
+OREV,Other Operating Revenue
+GNAD,OTHER PERSONNEL EXPENSES RECOVERIES
+OTCL,Other Provisions
+AREC,Other Receivables
+OTCL,Other Reservers
+MISC,Other SG&A
+MISC,Other SG&A (Cost Kaizen Scope)
+TAXS,Other Taxes on Income
+MISC,OtherExpense?RetirBenefCost
+MISC,Otr Retire/Severance - NAC Governance/Inactive GL
+PCOS,Outbound Freight - Breakbulk
+PCOS,Outbound Freight - Dedicated-Delivery-Service
+PCOS,Outbound Freight - Non Dedicated-Delivery-Service
+PCOS,Outbound Freight - PC surface to PDC
+PCOS,Outbound Freight - Premium
+PCOS,Outbound Freight - Recoveries
+PCOS,Outbound Freight - Referral
+MISC,Outdoor
+MISC,Outdoor Bulletins
+OTCL,Output Tax (ICZ)
+OTCL,Output Tax (MWS)
+AREC,output tax- luxury (MW2)
+GNAD,Outside Application Development
+GNAD,Outside Computer Services
+GNAD,Outside Distribution Expense
+GNAD,Outside Distribution Expense - Recovery
+GNAD,Outside Maintenance
+GNAD,Outside NAPO Labor
+MISC,Outside North American Parts Operations Labor
+GNAD,Outsource Professional Services - Non-Compliance
+GNAD,Outsourced Services Recovery
+GNAD,Outsourcing Exp - NAC Governance/Inactive GL Accou
+PREV,Over/Underpayments and Unallowed Deductions
+MISC,Overseas Freight
+MISC,OverSeas Material Usage Variance
+PCOS,Owner Satisfaction Expense - Recovery
+PCOS,Owner Satisfaction Expense (OSA)
+MISC,PAID DIGITAL DISPLAY
+OTCL,paid VAT
+INVT,PARTS INV 3RD PARTY
+INVT,PARTS INV BROKER FEES SURFACE
+INVT,PARTS INV DTA AIR
+INVT,PARTS INV DTA SURFACE
+INVT,PARTS INV DUTY AIR
+INVT,PARTS INV DUTY SURFACE
+INVT,PARTS INV FREIGHT SURFACE
+INVT,PARTS INV PENALTIES AIR
+INVT,PARTS INV PENALTIES SURFACE
+INVT,PARTS INV PROCESS FEE AIR
+INVT,PARTS INV PROCESS FEE SURFACE
+INVT,PARTS INVENTORY-LIFO
+OCOS,Parts Margin Adjustment
+PCOS,Parts Outbound Freight
+INVT,Parts Phys. Inventory Reserve
+OCOS,Parts Reimbursement Rate
+GNAD,Parts Return Freight & Chargeback
+CASH,Payment Request Clearing
+OTCL,Payroll - EE Benefit
+OTCL,Payroll - ER Benefit
+OTCL,Payroll - Garnishment
+ACMP,Payroll - Savings Plan
+GNAD,Payroll - Sick Pay
+OTCL,Payroll - Social Security
+GNAD,Payroll - Vacation Pay Salaries
+GNAD,Payroll - Vacation Pay Wages
+OTCL,Payroll - Workers' Compensation Association
+OTCS,PAYROLL CLRG-JAPAN STFF
+GNAD,Payroll Expense - Direct Labor Cost
+GNAD,Payroll Expense - Indirect Labor Cost
+GNAD,payroll- housing fund
+GNAD,payroll- labor union dues and education dues
+GNAD,Payroll Processing Fees
+OTCL,Payroll Taxes
+MISC,Payroll Taxes - Admin.
+OTCS,PDS CLEARING
+GNAD,Pension Exp. Pool - Admin
+MISC,Pension Expense Pool
+EQUI,Pension Liab. GL Accounts for Historical Balance T
+EQUI,Pension Liability Adjustments (FAS158)
+OTCL,Pension Provision
+ACMP,Pension-FX Reval.
+ACMP,Pension-FX Translation
+GNAD,Permits & Licenses
+CASH,PETTY CASH
+CASH,Petty Cash - ADM LA
+CASH,Petty Cash - AFD
+CASH,Petty Cash - Arizona
+CASH,Petty Cash - CAD
+CASH,Petty Cash - Plymouth
+CASH,Petty Cash - Travel - USD
+CASH,Petty Cash - Yen
+CASH,Petty Cash Company Store - AA
+CASH,Petty Cash-Imp.Fund-USD
+CASH,Petty cash-travel-YEN
+GNAD,PIP AWARDS
+OTCL,PIS to Recover (BR)
+OTCL,PIx Brazil
+FURN,Plant Tools-Dies & Jigs
+PREV,POCI - Revenue
+GNAD,Pool Car and Demo
+INVT,PORT STOCK
+GNAD,POSTAGE
+GNAD,Postemployment Expense
+MISC,Post-Retire.Benefit Exp.-Pool
+INVT,PPO In Transit
+INVT,PPO Inventory
+INVT,PPO Inventory Recon
+MISC,PPV Direct Material - NA
+MISC,PPV Direct Material - OS
+MISC,PPV Raw Material
+OCOS,Pre-Delivery Servce VARIANCE
+EQUI,Preferred Stock
+GNAD,Premium Insurance Recovery
+PCOS,Pre-Own Service Agreement
+PREV,Pre-owned Agency Revenue
+PPEX,Prepaid - Other
+PPEX,Prepaid Credito al Salario
+PPEX,Prepaid Exp. Inactive GL Accounts for Historical B
+PPEX,PREPAID EXPENSE-RECOV
+PPEX,Prepaid Insurance
+PPEX,PREPAID PENSION COST
+PPEX,Prepaid Taxes - Non-income
+PPEX,PREPAID TAXES RECOVERY
+PPEX,Prepaid-FX reval.
+PPEX,Prepaid-FX Translation
+GNAD,Preventative Maintenance
+INVT,PRICE REVALUATION RES
+GNAD,Print & Graphics - Recovery
+GNAD,Printing & Graphics
+GNAD,Printing Expense
+GNAD,Product Launch Cost
+GNAD,Product Liability Expense - Self Insured
+MISC,Production - Interactive
+MISC,Production - Misc
+MISC,Production - Print Publications
+MISC,Production - TV
+PCOS,Production Parts
+MISC,Production Temp Labor
+GNAD,Prof Services-Non Compliance
+GNAD,Prof Services-Project-Non Compliance
+MISC,Professional Services
+GNAD,Professional Services -Project-Non Compliance
+MISC,Professional Services SG&A
+GNAD,Professional Srvc - Compliance
+NNRV,Profit on Sale of FA - NAC Governance/Inactive GL
+EQUI,Profit Reserves
+ACMP,Profit Sharing PTU Accrual
+NNRV,Profit/loss attributable to non-controlling intere
+SCOS,Project Lead Expense (TEMA)
+PCOS,Project Lead Expense COS
+GNAD,Project Lead Expense SG&A
+PREV,Project Lead Income
+GNAD,Project Purchases
+GNAD,Promotions
+GNAD,Promotions - Non-Selling
+GNAD,Promotions - Recognition & Awards
+GNAD,PROMOTIONS-OTHER
+GNAD,Promotions-Recovery
+GNAD,Property Insurance
+TAXS,Property Taxes
+MISC,Prototype Vehicle Expense
+OTCL,Prov for expected Losses fr executory Contracts
+OTCL,Provision for Other Income and Revenue Tax
+TAXS,Provision for Uncertain tax position
+MISC,Provision Loss Job Contrct TMC
+OTCL,Provisions for Guarantees
+OTCL,Provisions for Indeterminate Payables
+APAY,PS SYSTEM IC ACCOUNT
+OTCL,PST  Self-Assess
+CASH,Purchase account (Trading)
+GNAD,Purchased Services-Time
+PCOS,Purchases of Assemb. Parts
+MISC,PVP Program
+MISC,PVP Program - COS
+GNAD,QC Testing - Out.Services
+GNAD,Qualtiy Control Consumption Ext. Prod. w/ Act Type
+RNDV,R&D
+RNDV,R&D Design Fee
+RNDV,R&D Freight
+BLDG,R&D Land & Building Lease
+RNDV,R&D Miscellaneous
+RNDV,R&D Modeler Fee
+RNDV,R&D Research Collaboration Fee
+RNDV,R&D Temporary Labor
+RNDV,R&D Test - Cars
+RNDV,R&D Test - Parts & Materials
+RNDV,R&D Testing & Research Fees
+MISC,Radio
+OTCL,RAV 4 EV Accrued Expense- Curr
+PCOS,Raw Mat – Fluids
+INVT,Raw Material - FX Reval.
+INVT,Raw Material - FX Translation
+PCOS,Raw Materials - Parts
+INVT,Raw Materials Others
+INVT,Raw Materials Steel
+MISC,Raw Materials Usage Variance
+PCOS,Raw Mat–Steel
+CASH,RBC Corporate Savings Account CAD
+CASH,RBC Corporate Savings Account USD
+MISC,Rec./Quality of Work Life
+AREC,RECEIPTS-SUSPENSE
+AREC,Receivables from Employees Overpayment
+AREC,Receivables from Partners
+AREC,Receivables from Tax Authorities
+MISC,Recovery - Lexus Social Media
+MISC,Recovery-Literature
+MISC,Recruiting & Interviewing
+OTAS,Regulatory Emission Credits
+PCOS,Removal BOM-Direct Material (OS)
+OTCL,Rent Deposit
+GNAD,Rent Exp 3rd Party
+GNAD,Rental Expense - Manufacturing Equipment
+GNAD,Rental Exp-TMCTrainers' Apart.
+NNRV,Rental Income
+GNAD,Repair and Maintenance - Admin
+GNAD,Repair Tools - Price Variance
+GNAD,Repair/Maint - Vendors
+GNAD,Repair/Maint-Mobile Equipment
+MISC,Repairs and Maintenance
+MISC,Research
+PCOS,RESEARCH RECOVERY
+ACMP,Reserve For Compensated Absences
+OTCL,Reserve for Deferred Taxes
+OTCL,Reserve For Guarantee (After Care Prodct) :S.T
+OLTL,Reserve for Lawsuit Loss - LT
+OTCL,RESERVE FOR LAWSUIT LOSS - ST
+NNOP,Reserves for anticipated losses
+EQUI,Reserves for Unrealized Costs
+RETN,Retained Earnings
+RETN,Retained Earnings- Other Decreases
+RETN,Retained Earnings- Other Increases
+RETN,Retained Earnings TMMC
+OLTL,Retirement & Severance Benefit
+MISC,Retro PPV
+PCOS,Return Pkg & Tool -Parts-Amort
+MISC,Returnable Packaging
+FURN,Returnable Packaging Right-of-use asset
+PREV,Revenue - Hardware
+PREV,Revenue - Licenses
+PREV,Revenue Affiliate-  Product
+PREV,Revenue Deduction - Hardware
+SREV,Revenue Deduction - Licenses
+PREV,Revenue Domestic - Product
+PREV,Revenue Foreign - Product
+GNAD,Ringi Reclass-Mod & Kaizen
+INVT,RM Consumption - Inv-Raw Materials - Paint
+INVT,RM Consumption - Inv-Raw Matls - Resin
+INVT,RM Consumption - Inv-Raw Matls-Fluids
+INVT,RM Consumption - Inv-RM-Parts & Components-JPN
+INVT,RM Consumption - Inv-RM-Parts & Components-US
+PCOS,RM Consumption - Raw Materials Steel
+OTCS,ROADSIDE ASSIST CLRG
+PCOS,Roadside Asst Unrecvr
+ACCU,ROU Building COS Depr Expense
+ACCU,ROU Building SGA Depr Expense
+CASH,Royal Bank (CAD) Outstanding Cheques
+CASH,Royal Bank (USD) Outstanding Cheques
+CASH,Royal Bank of Canada (5/3 CAD$)
+CASH,Royal Bank of Canada CAD
+CASH,Royal Bank of Canada USD
+MISC,Royalty
+SNMT,Royalty Exp - NAC Governance/Inactive GL Account b
+PREV,Royalty(Sales)
+ACMP,Rsvs Compensated Abs.- FX Reval.
+ACMP,Rsvs Compensated Abs.- FX Translation
+GNAD,Rtr Benefit Other than Pnsn- NAC Governance/Inacti
+OREV,RV Lease Incentives Exp
+OTCS,RV Support Current
+INAD,RV Support Non-Current
+OTCS,S.T. Deferred Tax Assets
+OTCS,S.T. Loans Receivable-I/C(Domestic)
+OTCS,S.T. Loans Receivable-Other
+GNAD,S/T Disability Insur. Pool
+GNAD,S/T Disability Insurance Pool
+GNAD,SAAS - SOFTWARE AS A SERVICE
+GNAD,Safety and Security Supplies
+GNAD,Safety Supplies
+MISC,Salaries Incentives
+OTCS,Salary and Wages Advances
+PREV,Sales - Logistics
+PREV,Sales - NAC Governance/Inactive GL Account balance
+PREV,Sales - Other Goods
+PREV,Sales - Part Returns & Allowance
+PREV,Sales - Prototype Parts
+PREV,Sales - Prototype Parts to TMC
+PREV,Sales - Reg Emission Credits
+SREV,Sales - Service Parts
+PCOS,Sales - Specific Parts - Tier1
+PCOS,Sales - Specific Parts - Tier2
+PREV,Sales - TMMC/CAPT/BC Parts
+PREV,SALES ALLW-IN CLM-AL/
+MISC,Sales Contests & Incentive - Employees and Dealer
+PREV,Sales Deduction - Material
+SREV,Sales Deduction Affiliated - External Services
+SREV,Sales Deduction Affiliated - Time
+SREV,Sales Deduction Domestic - External Services
+SREV,Sales Deduction Foreign - External Services
+SREV,Sales Deductions for Periodic Services
+PREV,SALES DISCOUNTS
+PREV,Sales Discounts - Parts
+PREV,Sales Engines - Domestic
+MISC,Sales Event Production
+NNRV,Sales Fixed Assets
+MISC,Sales Incentive - NAC Governance/Inactive GL Accou
+OREV,Sales incentive(Sales Deduction)
+PREV,Sales Of Finished Goods & Merchandise
+SREV,Sales of Service
+PREV,Sales Post Production Option (PPO)
+PREV,Sales- Production Parts
+PREV,Sales-Demo Allowance
+PREV,SALES-DISCOUNT FLEET
+PREV,SALES-EQUALIZED FREIG
+MISC,SALES-EVP DISCOUNTS
+PCOS,Sales-Export Spec Parts-Tier
+PREV,Sales-F.G.-New Vehicle-KD Sets
+PREV,Sales-F.G.-New Vehicle-Return & Allo
+PREV,Sales-Finished Goods CKD Sets
+PREV,SALES-MANAGEMENT FEE
+PREV,SALES-OTHER VEHICLES
+SREV,SALES-SERVICE FEE
+GNAD,Sample Pilot Parts SGA
+MISC,Sample/Pilot Parts
+ACCU,Scheduled Deprec Fixed Assets below Asset Value
+PCOS,Scrap / Rework and Waste Handling / Disposal
+OCOS,Scrap Cost - Carrier
+OCOS,Scrap Cost - Depot
+PCOS,Scrap Cost - Pilot
+PCOS,Scrap Cost - Plant Fault
+PCOS,Scrap Cost - Supplier Fault
+PCOS,Scrap Cost - Testing
+PCOS,Scrap Cost Plant Fault
+PCOS,Scrap Recovery
+PCOS,Scrap Recovery- Unit Plants
+PCOS,Scrap Reimbursements
+MISC,SEARCH ENGINE MARKETING
+OTCS,Securities - Bond
+CASH,Securities - Cash Equivalent
+CASH,Securities - Commercial paper(Cash Equivalents)
+OTCS,Securities - Other - FX Reval.
+OTCS,Securities - Other - FX Translation
+OTCS,Securities - Others(maturingover3month)
+CASH,Securities NAC Governance GL Accounts for Balance
+CASH,Securities-FX reval.
+CASH,Securities-FX Translation
+GNAD,Security
+AREC,Security Deposit Customers
+APAY,Security Deposits
+GNAD,Security Equip. and Sup.
+APAY,SED Input deductable (ZVV)
+GNAD,Service Center - Non-Warranty - Recovery
+SCOS,Service Center - Warranty - Recovery
+APAY,SERVICE EFFICIENCY
+PCOS,Service Loaner
+OTCL,Sett. of Input Tax Down Payts Tangibles w/o FI-AA
+MISC,Severance Pay
+GNAD,Severance Pay G&A
+GNAD,SGA ? Right of use asset Depreciation:AirCraft
+ACCU,SGA ? Right of use asset Depreciation:Building
+GNAD,SGA ? Right of use asset Depreciation:Land
+GNAD,SGA ? Right of use asset Depreciation:Machinery&Eq
+GNAD,SGA ? Right of use asset Depreciation:Tools&Furnit
+GNAD,SGA ? Right of use asset Depreciation:vehicle
+GNAD,SGA Employer Health Tax(EHT)
+GNAD,SGA Future Medi Claimes L/T Dis
+GNAD,SGA Unemployment Insur (UIC)
+GNAD,SGA? Technical Assist. & Training Exp.
+GNAD,SGA?Bonuses
+GNAD,SGA?Business taxes
+GNAD,SGA?Communication Expenses
+GNAD,SGA?Conference Meeting Expenses
+GNAD,SGA?CPA Related Expenses
+ACCU,SGA?Depreciation:Building
+GNAD,SGA?Depreciation:Land
+GNAD,SGA?Depreciation:Machinery&Equipment
+GNAD,SGA?Depreciation:Tools&Furniture
+GNAD,SGA?Depreciation:vehicle
+OTAS,SGA?Depreciation?Capitalized Development Asset
+OTAS,SGA?Depreciation?Others IntangibleAssets
+CENS,SGA?Depreciation?Software
+GNAD,SGA?Entertainment Expenses
+GNAD,SGA?Insurance Expenses (Liability Insurance)
+GNAD,SGA?Insurance Expenses (Other)
+GNAD,SGA?Investigation Expenses
+GNAD,SGA?IT Related Expenses
+GNAD,SGA?Law Related Expenses
+GNAD,SGA?Office Supply Expenses
+GNAD,SGA?OtherTransportation Charges
+GNAD,SGA?Packing Charges
+GNAD,SGA?Provision for Doubtful Account
+GNAD,SGA?Public Relation Expenses
+GNAD,SGA?R&D
+GNAD,SGA?Training and education expenses
+PCOS,SGA?Warranty expenses?Other
+GNAD,SGA-Electric Power Expenses
+GNAD,SGA-Establishment Taxes
+GNAD,SGA-Expenses for Lease & Rent
+GNAD,SGA-Gas Expenses
+MISC,SGA-Miscellaneous wage
+GNAD,SGA-Profit/Loss on sales fixed assts
+GNAD,SGA-Property Taxes
+GNAD,SGA-Retire Benefit Cost?Defined Obligat
+GNAD,SGA-Stock Option Expense
+GNAD,SGA-Traveling Expenses
+GNAD,SGA-Water
+GNAD,Shared Services Allocation Non-Labor
+PCOS,Shipping and Packaging Supplies
+GNAD,Shipping Charges
+CASH,SHORT TERM BANK INVESTMENT
+OTCL,Short Term Capital Lease Obligations
+OTCL,Short Term Loan-TEMA Grp Payable
+OTCL,Short Term Operating Lease Obligations
+OTCL,Short-Term Loans Payable
+MISC,Sick Time Pay
+FURN,SIGNAGE-IMAGE U.S.A.
+GNAD,Site TM Services and Facility
+GNAD,Small Tools
+CASH,SMBC
+MISC,SOCIAL MEDIA
+CENS,Software
+ACCU,Software : Accumulated Depreciation
+GNAD,Software License Recovery
+GNAD,SOFTWARE MAINTENANCE EXPENSE
+OTCL,Solidary surcharge for Interest Income Tax
+OTCL,Solidary Surcharge on Corporate Income Tax
+OPPE,SOP 98-1 Capitalized Costs - Production
+CENS,SOP 98-1 CIP - Administrative
+GNAD,SOP 98-1 OPER EXP. CAPITALIZED
+GNAD,SOP 98-1 Pers Exp. Capitalized
+GNAD,Spare Parts - Qnty Variance
+GNAD,Special Markets
+PCOS,Special Service Campaign - Recovery
+PCOS,Special Service Campaign Expense
+INVT,Special Service Equip Clrg
+EQUI,Special tax-allowable Reserve Â§6b
+CASH,ST BANK INV B OF TOKIO TMSDM
+CASH,ST BANK INV BANCOMER TDA
+OTCL,ST Cap Leas-FX Reval
+OTCL,ST Cap Leas-FX Translation
+DITX,ST Def Inc. Tax - FX Reval.
+DITX,ST Def Inc. Tax Inactive GL Accounts for Historica
+DITX,ST Def Inc. Tax.- FX Translation
+CASH,ST INV CHEQ BANAMEX - USD
+CASH,ST INV ING TMSDM
+OTCL,ST Lease Liability - Operating
+OTCL,ST Loan Pay-FX Reval
+OTCL,ST Loan Pay-FX Translation
+MISC,STAFF ASSIGNED FROM AFFILIATES
+GNAD,STAFF SALARIES - PAYROLL AGENT
+GNAD,STAFF-FEE TMPS LEASED EMPLYEES
+TAXS,stamp tax
+GNAD,Standard Cost Revaluation
+STIT,State Income Tax Payable
+OTCS,State Income Tax Receivable
+MISC,State Unemp. Tax Pool
+GNAD,State Unemployment Tax Pool
+TAXS,State/Provincial Income Tax Expense
+EQUI,Statutory Reserve
+GNAD,Steam Utilities Cost
+EQUI,Stock Option
+EQUI,Stock Option GL Accounts for Historical Balance Tr
+OPPE,Structures
+OPPE,Structures - Recon Account
+ACCU,Structures : Accumulated Dep Recon Account
+ACCU,Structures : Accumulated Depreciation
+OPPE,Structures : Right-of-use asset
+ACCU,Structures : Right-of-use asset(Accumulated Deprec
+GNAD,Subscriptions & Publications
+MISC,Subscriptions/Publications
+GNAD,Subsidiary Mtrl COS - NAC Governance/Inactive GL A
+CASH,Subvention Cash Incentives
+CASH,Sumitmo Cash In Operating Disb Clrng
+CASH,Sumitmo Cash Out Operating Disb Clrng
+CASH,Sumitmo Operating Disb
+CASH,SUMITOMO-MITSUI-ADVANCE ACCT
+GNAD,Sup Retire Expense Admin
+MISC,Supplemental Retirement Exp.
+INAD,Supplemental Trust Fund
+FURN,Supplier Tooling
+INVT,Supplies
+INVT,Supplies - FX Reval.
+INVT,Supplies - FX Translation
+INVT,Supplies Inactive GL Accounts for Historical Balan
+EQUI,Surplus of Cap. GL Accounts for Historical Balance
+GNAD,Suspense
+OTCL,Suspense Account
+MISC,SUSPENSE PS OUT OF BALANCE
+CASH,TABC - Truck - BOA- Customs
+CASH,TABCH - In House
+CASH,TABCH Cash Bank of America
+CASH,TABC-In House-Contra
+CASH,TABC-Local Bank-Other
+CASH,TABC-Local Bank-Payroll
+OTCL,Tax - IRF General to Pay (PIS/COFINS/CSLL/IR) (BR)
+OLTL,Tax - IRRF - Contracted Services (BR)
+CASH,TAX EXEMPT INVESTMENT
+OTCL,Tax exemption from export
+TAXS,Tax Fringe Benefits Tax
+OTCL,Tax Invoice Base Posting (UA)
+TAXS,Tax loss carryforward
+TAXS,Tax loss carryforward credit
+OTCL,Tax on sls/purch-settlement of Customer Down Pyts
+OTCL,Tax Other - to Pay (BR)
+OTCL,Tax Provisions
+OTCL,TAX Transfer Plant (BR)
+APAY,Tax Transference of Establishment
+TAXS,Tax&addit. Duty
+TAXS,Taxes Other - NAC Governance/Inactive GL Account b
+APAY,TDA ADVERTISING PAYABLE
+MISC,TDA/LDA Co-op Reimbursement
+CASH,TDM BANCOMER USD
+CASH,TDM-BANAMEX/CITYBANK USD
+CASH,TDM-BANCOMER EXPORT OPS. PESOS
+MISC,Tech Assist Labor Charges
+SCOS,Tech Assistance Fee Exp (TEMA)
+PREV,Tech. Assistance Fee Settlement
+PREV,Technical Assistance Fees
+GNAD,Technical Contractors
+MISC,Telematics Courtesy Fee
+PREV,Telematics Discount
+AREC,Telematics Unbilled A/R
+CASH,TEMA - In-House
+GNAD,TEMA OPBS in TMS GL Account balance for conversion
+CASH,TEMA-Local Bank-Payroll Check
+CASH,TEMA-Local Bank-Payroll DD
+OTCS,Temp Payment - FX Reval.
+OTCS,Temp Payment - FX Translation
+MISC,Temporary Labor Selling & Admin
+OTCS,Temporary Payment
+AREC,TFS Lexus Drafting Lockbox Account
+AREC,TFS Toyota Drafting Lockbox Account
+MISC,Tier 2 Supplier Parts PPV
+CASH,TIME DEPOSITS
+CASH,TMEX BANAMEX PESO
+CASH,TMEX BANCOMER IMPORT PESOS
+CASH,TMEX BANCOMER TDA OPS PESOS
+CASH,TMEX INV BANAMEX PESOS
+CASH,TMEX INV BANCOMER PESOS
+CASH,TMEX INV BANCOMER TDA PESOS
+CASH,TMEX INV INBURSA PESOS
+CASH,TMEX INV IXE-BANORTE PESOS
+CASH,TMEX INV SANTANDER PESOS
+CASH,TMEX TOKIO MITSUBISHI PESOS
+CASH,TMMAL - In-House
+CASH,TMMC Royal Bank-Corolla Park
+CASH,TMMC-Mitsubishi Bank-CDN Term
+CASH,TMMC-Mizuho Bank - CAD
+CASH,TMMC-Royal Bank-CDN Current
+CASH,TMMC-Royal Bank-CDN Payroll
+CASH,TMMC-Royal Bank-CDN Payroll OS
+CASH,TMMC-Royal Bank-USD Current
+CASH,TMMC-Royal Bank-USD Prop Tax
+CASH,TMMC-Royal Bnk CDN Officer Act
+CASH,TMMC-Royal Bnk-USD OS.Cheques
+CASH,TMMC-Sumitomo Bank-CDN Term
+CASH,TMMC-Sumitomo Trust Bank - USD
+CASH,TMMI - In-House
+CASH,TMMI-Local Bank-Other
+CASH,TMMI-Local Bank-Payroll
+CASH,TMMK - In-House
+CASH,TMMK -Local Bank-Payroll
+CASH,TMMK-Local Bank-Other
+CASH,TMMK-Local Bank-Payroll DD
+CASH,TMMMS - In-House
+CASH,TMMW-Local Bank-Payroll
+CASH,TMMWV - In-House
+CASH,TMMWV-Local Bank-Other
+CASH,TMNA Dividend IHB
+CASH,TMNA Misc
+CASH,TMNA Vehicle Service
+AREC,TMNA Vehicle Services ACH Cash In Crlng Acct
+APAY,TMNA Vehicle Services ACH Cash Out Clrng Acct
+CASH,TMS - In-House
+CASH,TMS CITIBANK CDA
+CASH,TMS Telematics
+CASH,TMSI Operating
+CASH,TMSMS BANCOMER PESOS
+CASH,TMSMS BANCOMER USD
+CASH,TMSMS INV BANCOMER PESOS
+CASH,TMSMS INV INVEX PESOS
+GNAD,Tool Repair
+MISC,Tooling Lease (Inc)/Exp
+FURN,Tools Furn & Fixture-Otrs : ROU - Financing
+FURN,Tools Furn & Fixture-Otrs : ROU(A/D) - Financing
+FURN,Tools Furn & Fixture-Otrs : ROU(Acc Impairment Los
+FURN,Tools Furniture & Fixture-Others
+ACCU,Tools Furniture & Fixture-Others : Accumulated Dep
+FURN,Tools Furniture & Fixture-Others : Right-of-use as
+FURN,Tools Recon GL Account
+OPPE,Tools-Dies&Jigs-CIP(NA A/Fuse)
+OCOS,Total Purch of Merchandise - NAC Governance/Inacti
+OTCL,Toy/Lex Dealer Return Reserve
+INVT,TOYOTA FLEET BUYBACK INVENTORY
+INVT,TPNA Suspense
+OTCL,TRAC INSURANCE PAYABLE
+NNRV,Trade Discounts Earned
+APAY,Trade Payables affilated Companies Adjustments
+APAY,Trade Payables affiliated Companies
+APAY,Trade Payables affiliated companies due > 5 years
+APAY,Trade Payables affiliated Companies due 1-5 Years
+APAY,Trade Payables Domestic Adjustments
+APAY,Trade Payables due > 5 years
+APAY,Trade Payables due within 1-5 years
+APAY,Trade Payables Foreign Adjustments
+APAY,Trade Payables Foreign due > 5 years
+APAY,Trade Payables Foreign due within 1-5 years
+AREC,Trade Receivables affiliated Companies
+AREC,Trade Receivables affiliated Companies > 1 Year
+AREC,Trade Receivables affiliated Companies Adjustments
+AREC,Trade Receivables Domestic
+AREC,Trade Receivables Domestic Adjustments
+AREC,Trade Receivables Domestic due > 1 Year
+AREC,Trade Receivables Foreign
+AREC,Trade Receivables Foreign Adjustments
+AREC,Trade Receivables Foreign due > 1 Year
+GNAD,Trade Show Expense
+TAXS,Trade Tax
+OTCL,Trade Tax Provision
+GNAD,Training and Education
+GNAD,Training Exp - NAC Governance/Inactive GL Account
+APAY,trans input VAT
+EQUI,Translationadjustment
+GNAD,Transportation Charge - NAC Governance/Inactive GL
+AREC,Transportation Insurance Claims Receivable - Parts
+AREC,Transportation Insurance Claims Receivable - Vehic
+MISC,Travel
+PPEX,Travel Airfare Clearing Account
+PCOS,Travel Exp COS - NAC Governance/Inactive GL Accoun
+GNAD,Travel Expense Recovery
+MISC,Travel Recognition
+MISC,Travel SG&A
+GNAD,Travelling Exp - NAC Governance/Inactive GL Accoun
+CASH,TREASURY BILL
+CASH,Truck - In-House
+OCOS,Truck Freight
+CASH,TSSC - In-House
+PCOS,TTAI Handling Charges
+CASH,UB Cash In Checks Controlled Disb Clrng
+CASH,UB Cash In Operating Clrng
+CASH,UB Cash Out Checks Controlled Disb Clrng
+CASH,UB Cash Out Operating Clrng
+CASH,UB Checks Controlled Disb
+CASH,UB Operating
+INAD,Unamortized Bond Discount Cost(PCB)
+INAD,Unamrt. Bond Issue Cost - FX Reval
+INAD,Unamrt. Bond Issue Cost - FX Translation
+OTCS,Unbilled Revenue
+OLTL,Uncertain tax position adjustment amount : L.T.
+OTAS,UNEARNED FINANCE INC LT
+OTCS,UNEARNED FINANCE INC ST
+OLTL,UNEARNED FINANCE INCOME LT
+STDR,UNEARNED FINANCE INCOME ST
+INVT,Unidentified Inventory
+GNAD,Uniforms Expense
+CASH,Unify Cash Out Operating Emergency Clrng
+CASH,Unify Operating Emergency
+CASH,UNION BANK DISBURSEMENT
+CASH,UNION BANK OPERATING AC
+AREC,Unpaid VAT
+AREC,Unpaid VAT MX Statutory Reporting
+EQUI,Unreal. Gain on Security GL Accounts for Historica
+EQUI,Unrealized Gain On Securities
+TECH,Upload Account
+MISC,Usage Variance Unassigned Balance
+AREC,USD Export Receivable Account
+STIT,Use Tax Payable
+OTCL,Used Car Warr Pay - Lexus
+MISC,Utilities
+GNAD,UTILITIES RECOVERIES
+MISC,VA / VE
+MISC,Vacation Pay Pool
+GNAD,Value Engineering TTC Dev Cost
+GNAD,Value Engineering Variance
+EQUI,Variable Capital
+AREC,VAT PAID IN CUSTOMS
+STIT,VAT Payable
+STIT,VAT Payable (Uncollected VAT)
+STIT,VAT Payable (Uncollected VAT) MX Statutory
+STIT,VAT PAYABLE DEFINITIVE
+OTCS,VAT REC/DEFINITIVE
+OTCS,VAT Receivable
+APAY,VAT regularizations&out of scope (payables)
+STIT,VAT Withholding Tax
+MISC,VDC Admin Allocation
+MISC,VDC Indirect COS Allocation
+MISC,VDO Admin Allocation
+PCOS,Veh Delivered Clearing Acct
+OTCL,vehicle and vessels tax
+AREC,VEHICLE AR - CLEARING ACCOUNT
+PCOS,Vehicle Cost Reduction Exp.
+GNAD,Vehicle Costs
+INVT,VEHICLE INVENTORY CLEARING
+INVT,VEHICLE INVENTORY-LIFO ADJ
+PCOS,Vehicle Returnable Pkg Amortiz
+GNAD,Vending Services
+OTCS,VENDOR PARTS WARRANTY
+OTCS,VENDOR WARRANTY CLEARING-RAVEN
+OTCS,VENDOR WRTY CLAIM CLEAR
+AREC,Vendors with a Debit Balance
+GNAD,Vision Insurance Pool
+AREC,VS Lease Car - TM REC
+ACMP,W/H Additional Life
+ACMP,W/H Charitable Contributions
+ACMP,W/H Credit Union
+ACMP,W/H Deferred Supplemental 401K
+ACMP,W/H Employee Garnishments
+ACMP,W/H Employee INFINAVIT
+ACMP,W/H Federal Tax - TMC
+ACMP,W/H FICA/CPP/UIC Tax
+ACMP,W/H HMO Premiums
+ACMP,W/H PVP MLVO
+MISC,Wage Comp (SGA) - NAC Governance/Inactive GL Accou
+MISC,Wages - Union
+PCOS,Warranty
+MISC,Warranty Adjustments
+PCOS,Warranty Chargebacks
+APAY,WARRANTY CLAIMS
+OTCS,Warranty Claims - Clearing Account
+OTCS,WARRANTY CLAIMS-HWG
+OTCS,WARRANTY CLEARING
+PCOS,Warranty Exp Recovery
+PCOS,Warranty Expense
+APAY,Warranty Payable - 3rd Party
+OCOS,Warranty Reserve Adjustment
+GNAD,Waste Disposal Expense
+GNAD,Waste Handling Expense
+GNAD,Water - Taxes/Fees Expense
+GNAD,Water Consultant Expense
+CASH,WFCU EMERGENCY PREPAREDNESS
+OTCS,WIP - Periodic Service
+AREC,WIP Accrued Revenue
+AREC,WIP Accrued Revenue - Disbursements
+AREC,WIP Accrued Revenue - External Services
+AREC,WIP Accrued Revenue - Periodic Service
+AREC,WIP Accrued Revenue - Provision Manual
+AREC,WIP Accrued Revenue - Time
+AREC,WIP Accrued Revenue Deductions - Disbursements
+AREC,WIP Accrued Revenue Deductions - External Services
+AREC,WIP Accrued Revenue Deductions - Provision Manual
+AREC,WIP Accrued Revenue Deductions - Time
+AREC,WIP Accrued Revenue On Account Adjustment
+INVT,WIP-FX Reval.
+INVT,WIP-FX Translatopm
+GNAD,Wlfr Exp (SGA) - NAC Governance/Inactive GL Accoun
+INVT,Work In Process
+SCOS,Work in Process - Labor
+MISC,Work in Process - Material
+MISC,Work in Process - Overhead
+GNAD,Workers' compensation assoc. contributions
+GNAD,Workers' Compensation Association Contributions
+GNAD,Worker's Compensation Pool
+TECH,Zero Balance Clearing Account
